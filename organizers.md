@@ -15,11 +15,13 @@ title: Organizing Committee
 
 # Nominees to be contacted
 - Trisha Cruse
-- Carly Strasser
 - Timothee Poisot
 - Naupaka Zimmerman
 - Dave Harris
 - Carl Boettiger
+- Corinna Gries
+
+- Carly Strasser
 - Karthik Ram
 - Heather Piwowar
 - Peter Fox
@@ -30,7 +32,6 @@ title: Organizing Committee
 - Marissa Strong (DMP Tool)
 - Ben Best
 - Amber Budden
-- Corinna Gries
 
 - SBA R Users Group
 - SBA Data Science group
@@ -40,3 +41,7 @@ title: Organizing Committee
     - Lauren
 - Wade Sheldon
 - Other matlab folks
+- Jim Frew
+- Peter Slaughter
+- Kaitlin Thaney
+- 
