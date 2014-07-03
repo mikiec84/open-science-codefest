@@ -14,6 +14,7 @@ title: Organizing Committee
 - Chris Jones (NCEAS)
 
 # Nominees to be contacted
+
 - Trisha Cruse
 - Timothee Poisot
 - Naupaka Zimmerman
@@ -44,4 +45,4 @@ title: Organizing Committee
 - Jim Frew
 - Peter Slaughter
 - Kaitlin Thaney
-- 
+
