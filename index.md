@@ -3,7 +3,6 @@ layout: index
 title: Open Science Codefest 2014
 ---
 {% include JB/setup %}
-
 <!-- for githubpages -->
 {% assign HOME_PATH = "open-science-codefest/" %}
 
