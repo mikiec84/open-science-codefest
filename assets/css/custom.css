@@ -9,11 +9,11 @@ purple - 5e52a2
 
 @font-face {
     font-family: CodeLight;
-    src: url(/assets/font/codelight.otf);
+    src: url(/open-science-codefest/assets/font/codelight.otf);
 }
 @font-face {
     font-family: Code Bold;
-    src: url(/assets/font/codebold.otf);
+    src: url(/open-science-codefest/assets/font/codebold.otf);
 }
 
 html, body{
@@ -117,14 +117,14 @@ body#index a:hover,
 }
 
 #design{
-	background-image: url(/assets/img/design.jpg);
+	background-image: url(/open-science-codefest/assets/img/design.jpg);
 }
 #analyze{
 }
 #code{
 }
 #discuss{
-	background-image: url(/assets/img/discuss.jpg);
+	background-image: url(/open-science-codefest/assets/img/discuss.jpg);
 }
 #discuss p{
 	background-color: transparent;
@@ -278,7 +278,7 @@ color: #FFF;
 }
 
 #location{
-	background-image: url(/assets/img/doubletree.jpg);
+	background-image: url(/open-science-codefest/assets/img/doubletree.jpg);
 	height: 400px;
 	background-size: cover;
 	background-repeat: no-repeat;	
@@ -305,17 +305,17 @@ width: 49%;
 }
 
 #beaches{
-	background-image: url(/assets/img/waterfront.jpg);
+	background-image: url(/open-science-codefest/assets/img/waterfront.jpg);
 }
 #stearnswharf{
-		background-image: url(/assets/img/stearnswharf.jpg);
+		background-image: url(/open-science-codefest/assets/img/stearnswharf.jpg);
 	
 }
 #statest{
-		background-image: url(/assets/img/statest.jpg);
+		background-image: url(/open-science-codefest/assets/img/statest.jpg);
 }
 #more-attractions{
-		background-image: url(/assets/img/palmtrees.jpg);
+		background-image: url(/open-science-codefest/assets/img/palmtrees.jpg);
 }
 #more-attractions p{
 	background-color: #111;
@@ -327,7 +327,7 @@ width: 49%;
 	color: #FFF;
 }
 #attractions{
-		background-image: url(/assets/img/onbike.jpg);
+		background-image: url(/open-science-codefest/assets/img/onbike.jpg);
 		margin-top: 20px;
 }
 #details p{
