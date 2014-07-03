@@ -1,0 +1,343 @@
+/* Colors 
+
+green - 38b449
+blue - 00adef
+red - de2d34
+purple - 5e52a2
+
+*/
+
+@font-face {
+    font-family: CodeLight;
+    src: url(/assets/font/codelight.otf);
+}
+@font-face {
+    font-family: Code Bold;
+    src: url(/assets/font/codebold.otf);
+}
+
+html, body{
+	background-color: #FFF;
+}
+body#index{
+	color: #111;
+}
+h2 {
+font-family: Helvetica, Arial, sans-serif;
+font-weight: 100;
+font-size: 2em;
+}
+ul{
+	list-style: none;
+}
+h1,
+.page-header h1 {
+font-family: Code Bold, Helvetica;
+font-size: 3em;
+}
+.fa {
+font-size: .8em;
+margin-left: 5px;
+color: #999;
+}
+
+
+@media (max-width: 767px){
+	body{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.container{
+		padding: 0px 2%;
+	}
+	.navbar .nav > li > a{
+		font-size: 1.5em;
+	}
+}
+
+@media (max-width: 450px){
+	#titleheader > img {
+		max-width: 611px;
+		margin-left: -30%;
+	}
+	#attractions h2{
+		font-size: 4em;
+	}
+}
+@media (max-width: 979px){
+	.navbar .container {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.navbar .nav{
+		background-color: #111;
+		border-radius: 5px;
+	}
+}
+
+body#index a:hover,
+.navbar .nav > li > a:hover{
+	color: #00adef;
+}
+
+.featured{
+	padding: 20px 2%;
+	height: 300px;
+	background-size: cover;
+	color: #FFF;
+}
+.featured.halfheight{
+	height: 100px;
+	background-position-y: 45%;
+}
+#index .featured:nth-child(1){
+	margin-top: 20px;
+}
+.featured h2 {
+	font-family: CodeLight, Helvetica, Arial, sans-serif;
+	font-size: 5em;
+	line-height: 1em;
+	width: auto;
+	color: #111;
+	background-color: #FFF;
+	padding: 5px 10px;
+	display: inline;
+}
+.featured p {
+	font-size: 1.5em;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	min-width: 250px;
+	width: 48%;
+	line-height: 1.6em;
+	color: #111;
+	background-color: #FFF;
+	margin-top: 20px;
+	padding: 5px 10px;
+}
+
+#design{
+	background-image: url(/assets/img/design.jpg);
+}
+#analyze{
+}
+#code{
+}
+#discuss{
+	background-image: url(/assets/img/discuss.jpg);
+}
+#discuss p{
+	background-color: transparent;
+	color: #FFF;
+}
+#code h2,
+#analyze h2,
+#details h2{
+	background-color: #111;
+	color: #FFF;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a,
+#index .dropdown-menu > li > a:hover{
+	color: #FFF;
+	background-color: #00adef;
+	background-image: linear-gradient(to bottom, #00adef, #0077b3);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#00adef), to(#0077b3));
+	background-image: -webkit-linear-gradient(top, #00adef, #0077b3);
+}
+
+#titleheader > img{
+	min-height: 150px;
+}
+
+.title{
+	margin-top: 20px;
+	font-family: CodeLight, Arial, sans-serif;
+	letter-spacing: 1px;
+	font-size: 3em;
+}
+.posts-title{
+	display: block;
+	text-align: left;
+	width: 27%;
+	margin-right: 2%;
+	float: left;
+	height: 150px;
+	font-size: 1.3em;
+	line-height: 1.5em;
+	background-color: #EEE;
+	padding: 10px 2%;
+	min-width: 245px;
+	border-bottom: #999 5px solid;
+	overflow: overlay;
+}
+.posts-title:nth-child(3){
+	margin-right: 0px;
+}
+.posts-title a{
+	color: #111;
+	text-align: left;
+}
+.posts-title a[href*=categories] {
+	display: block;
+	margin-top: 10px;
+	width: auto;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.posts-title .post-date{
+	display: block;
+	font-size: .8em;
+}
+
+.brand,
+.navbar .nav > li > a{
+	letter-spacing: 0;
+}
+.navbar a.brand{
+	font-family: CodeLight;
+	letter-spacing: 1px;
+}
+
+.hero-icon{
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100%;
+	height: 84px;
+	padding-top: 14px;
+	color: white;
+	font-size: 24px;
+}
+
+.bg-color1{ background-color: #38b449;}
+.bg-color2{background-color: #de2d34;}
+.bg-color3{background-color: #00adef;}
+.bg-color4{background-color: #5e52a2;}
+
+.posts-title a[href*=categories],
+a[href*=categories]{
+	background-color: #38b449;
+	color: #FFF;
+	padding: 1px 4px;
+	border-radius: 4px;
+	margin: 0px 2px;
+	display: inline-block;
+}
+.navbar .posts-title a[href*=categories],
+.navbar a[href*=categories]{
+	background-color: inherit;
+}
+.posts-title a[href*=categories]:hover,
+a[href*=categories]:hover{
+	color: #FFF !important;
+	background-color: #111;
+}
+a[href*="categories#Data management"],a[href*="categories.html#data management"],
+.posts-title a[href*="categories#Data management"], .posts-title a[href*="categories.html#data management"],
+.tag_box a[href*="categories.html#data management"]{ 
+	background-color: #00adef;
+}
+a[href*="categories#Data science"],a[href*="categories.html#data science"], 
+.posts-title a[href*="categories#Data science"], .posts-title a[href*="categories.html#data science"],
+.tag_box a[href*="categories.html#data science"]{ 
+	background-color: #de2d34;
+}
+a[href*="categories#Meta"],a[href*="categories.html#meta"],
+.posts-title a[href*="categories#Meta"], .posts-title a[href*="categories.html#meta"],
+.tag_box a[href*="categories.html#meta"]{ 
+	background-color: #999;
+}
+
+.center{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#index .content > .container-fluid{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.tag_box a {
+padding: 2px 4px;
+background-color: #00adef;
+color: #FFF;
+}
+.tag_box a:hover{
+	background-color: #111;
+}
+
+#sessions{
+	background-color: #F9F9F9;
+}
+
+#sponsors{
+	background-color: #111;
+	color: #FFF;
+}
+
+#location{
+	background-image: url(/assets/img/doubletree.jpg);
+	height: 400px;
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+
+#gmap_canvas {
+height: 300px;
+width: 102%;
+float: left;
+}
+#location-map{
+	padding-top: 20px;
+	background-color: #EEE;
+}
+#location-map > .details{
+	float: left;
+margin-top: 20px;
+padding: 0px 1%;
+display: inline-block;
+font-size: 1.8em;
+line-height: 1.2em;
+font-weight: 200;
+width: 49%;
+}
+
+#beaches{
+	background-image: url(/assets/img/waterfront.jpg);
+}
+#stearnswharf{
+		background-image: url(/assets/img/stearnswharf.jpg);
+	
+}
+#statest{
+		background-image: url(/assets/img/statest.jpg);
+}
+#more-attractions{
+		background-image: url(/assets/img/palmtrees.jpg);
+}
+#more-attractions p{
+	background-color: #111;
+}
+#more-attractions a{
+	color: #FFF;
+}
+#more-attractions a{
+	color: #FFF;
+}
+#attractions{
+		background-image: url(/assets/img/onbike.jpg);
+		margin-top: 20px;
+}
+#details p{
+	width: 100%;
+}
+
+em{
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+
