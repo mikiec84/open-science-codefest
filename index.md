@@ -4,7 +4,6 @@ title: Open Science Codefest 2014
 ---
 {% include JB/setup %}
 <!-- for githubpages -->
-{% assign HOME_PATH = "open-science-codefest/" %}
 
 <div class="container-fluid featured" id="design">
 	<h2>Design</h2>
