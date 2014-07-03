@@ -8,6 +8,10 @@ title: Organizing Committee
 - Matthew B. Jones (NCEAS/ISEES)
 - Mark Schildhauer (NCEAS/ISEES)
 - Ray Idaszak (RENCI/WSSI)
+- Lauren Walker (NCEAS)
+- Margaret O'Brien (SBC LTER)
+- Ben Leinfelder (NCEAS)
+- Chris Jones (NCEAS)
 
 # Nominees to be contacted
 - Trisha Cruse
@@ -17,16 +21,22 @@ title: Organizing Committee
 - Dave Harris
 - Carl Boettiger
 - Karthik Ram
-- Margaret O'Brien
-- Ben Leinfelder
-- Lauren Walker
 - Heather Piwowar
 - Peter Fox
 - Victoria Stodden
 - Ilkay Altintas
 - Kerstin Lenhart
-- Ray Idaszak
 - Chris Lenhardt
+- Marissa Strong (DMP Tool)
+- Ben Best
+- Amber Budden
+- Corinna Gries
 
+- SBA R Users Group
+- SBA Data Science group
 
-
+- Community Dynamics members
+    - Lizzie
+    - Lauren
+- Wade Sheldon
+- Other matlab folks
