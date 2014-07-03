@@ -20,3 +20,6 @@
     {% endif %}  
   {% endif %}
 {% endcapture %}{% assign jbcache = nil %}
+
+<!-- for githubpages -->
+{% assign HOME_PATH = "open-science-codefest/" %}
