@@ -15,36 +15,3 @@ title: Organizing Committee
 
 	We are in the process of adding organizers, please <a href="mailto:codefest@nceas.ucsb.edu">let us know </a> if you are interested. 
 
-# Nominees to be contacted
-
-- Trisha Cruse
-- Timothee Poisot
-- Naupaka Zimmerman
-- Dave Harris
-- Carl Boettiger
-- Corinna Gries
-
-- Carly Strasser
-- Karthik Ram
-- Heather Piwowar
-- Peter Fox
-- Victoria Stodden
-- Ilkay Altintas
-- Kerstin Lenhart
-- Chris Lenhardt
-- Marissa Strong (DMP Tool)
-- Ben Best
-- Amber Budden
-
-- SBA R Users Group
-- SBA Data Science group
-
-- Community Dynamics members
-    - Lizzie
-    - Lauren
-- Wade Sheldon
-- Other matlab folks
-- Jim Frew
-- Peter Slaughter
-- Kaitlin Thaney
-
