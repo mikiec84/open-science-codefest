@@ -35,4 +35,4 @@ We're looking for people that want to help with organizing the Codefest.  The fo
 - Jim Frew
 - Peter Slaughter
 - Kaitlin Thaney
-
+- Daniel Falster 
