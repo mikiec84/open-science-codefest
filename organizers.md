@@ -13,6 +13,8 @@ title: Organizing Committee
 - Ben Leinfelder (NCEAS)
 - Chris Jones (NCEAS)
 
+	We are in the process of adding organizers, please <a href="mailto:codefest@nceas.ucsb.edu">let us know </a> if you are interested. 
+
 # Nominees to be contacted
 
 - Trisha Cruse

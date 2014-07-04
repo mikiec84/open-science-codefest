@@ -3,10 +3,16 @@ layout: index
 title: Open Science Codefest 2014
 ---
 {% include JB/setup %}
-
+<p id="intro">
+The Open Science Codefest will gather researchers from ecology, biodiversity science, and other earth and environmental sciences to collaborate on code projects of mutual interest. Many people are developing software packages for use in the environmental and earth sciences, but there are only rare opportunities for collaboration on these works. We are inspired by hack-a-thon sessions at major computing conferences around the world, and think that major advances in science can occur when people with shared interests gather and hammer out new solutions.
+</p>
 <div class="container-fluid featured" id="design">
 	<h2>Design</h2>
 	<p>Collaborate with others to conceive, extend, and design software for open science.</p>
+</div>
+<div class="container-fluid featured" id="analyze">
+	<h2>Analyze</h2>
+    <p>Integrate, analyze, and model scientific data to solve pressing environmental issues.</p>
 </div>
 <div class="container-fluid featured" id="code">
 	<h2>Code</h2>
@@ -16,11 +22,7 @@ title: Open Science Codefest 2014
 	<h2>Discuss</h2>
     <p>Explore software needs for environmental science, find solutions to vexing software issues.</p>
 </div>
-<div class="container-fluid featured" id="analyze">
-	<h2>Analyze</h2>
-    <p>Integrate, analyze, and model scientific data to solve pressing environmental issues.</p>
-</div>
-
+<div class="clearfix"></div>
 <div class="container-fluid" id="sessions">
 	<div class="title" id="sessions">
 	  Sessions
@@ -57,22 +59,29 @@ title: Open Science Codefest 2014
 	<div class="container-fluid">
 	  <div class="row-fluid">
 	    <div class="span3 text-box">
-	      <p><a href="http://isees.nceas.ucsb.edu">ISEES</a><br />
-	         Logo here.
+	      <p>
+	      	<img src="{{ HOME_PATH }}assets/img/renci.jpg" /><br/>
+	      	<a href="http://renci.org/">RENCI</a>
 	      </p>
 	    </div>
 	    <div class="span3 text-box">
-	      <p><a href="http://www.nceas.ucsb.edu">NCEAS</a><br />
-	          <img src="{{ HOME_PATH }}assets/img/logo-nceas-white.png" />
+	      <p>
+	          <img src="{{ HOME_PATH }}assets/img/logo-nceas-white.png" /><br />
+	          <a href="http://www.nceas.ucsb.edu">NCEAS</a>
+	      </p>
+	    </div>
+	   <div class="span3 text-box">
+	      <p>
+	       <img src="{{ HOME_PATH }}assets/img/nsf.gif" height="85" style="height:85px"/><br />
+	          <a href="http://www.nsf.gov/">NSF</a><br/>
+	          <span class="tiny">Acknowledgement: This material is based upon work supported by the National Science Foundation under Grant Number 1216894</span>
 	      </p>
 	    </div>
 	    <div class="span3 text-box">
-	      <p><a href="http://example.com">WSSI</a><br />
-	         Logo here.
-	      </p>
-	    </div>
-	    <div class="span3 text-box">
-	      <p><a href="http://example.com">RENCI</a><br />
+	    
+	      <p>
+	      <a href="http://isees.nceas.ucsb.edu">ISEES</a><br />
+	      <a href="http://example.com">WSSI</a>
 	      </p>
 	    </div>
 	  </div>

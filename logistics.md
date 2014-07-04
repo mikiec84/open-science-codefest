@@ -3,7 +3,7 @@ layout: default
 title: venue
 ---
     
-<div class="container-fluid featured" id="location">
+<div class="container-fluid featured over-image" id="location">
 	<h2>Location</h2>
     <p>Santa Barbara, CA</p>
     <p><a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Doubletree</a><i class="fa fa-external-link"></i></p>
@@ -27,16 +27,16 @@ title: venue
 	<p>Breakfast and lunch will be provided.</p>
 </div>
 
-<div class="container-fluid featured grid" id="attractions">
+<div class="container-fluid featured over-image" id="attractions">
 	<h2>Local Attractions</h2>
 </div>
-<div class="container-fluid featured grid" id="beaches">
+<div class="container-fluid featured over-image" id="beaches">
 	<p>Beaches</p>
 </div>
-<div class="container-fluid featured grid" id="statest">
+<div class="container-fluid featured over-image" id="statest">
 	<p>Shopping on State Street</p>
 </div>
-<div class="container-fluid featured grid" id="stearnswharf">
+<div class="container-fluid featured over-image" id="stearnswharf">
 	<p>Stearns Wharf</p>
 </div>
 <div class="container-fluid featured halfheight" id="more-attractions">
