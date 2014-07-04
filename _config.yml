@@ -11,10 +11,10 @@ permalink:        pretty
 title:            Open Science Codefest 2014
 
 author:
-  name:           'Matt Jones'
-  email:          'jones@nceas.ucsb.edu'
-  url:            https://matt.magisa.org
-  github:         mbjones
+  name:           'Regents of the University of California'
+  email:          'codefest@nceas.ucsb.edu'
+  url:            https://nceas.github.io/open-science-codefest/
+  github:         nceas/open-science-codefest
   twitter:        metamattj
 
 
