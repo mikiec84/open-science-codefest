@@ -33,8 +33,8 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	  <ul class="posts">
 	    {% for post in site.posts limit:15 %}
 	      <li class="posts-title">
-		      	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-		      	<a href="{{ BASE_PATH }}categories#{{ post.category }}-ref">{{ post.category }}</a>
+		      	<a href="{{ post.url }}">{{ post.title }}</a>
+		      	<a href="categories.html#{{ post.category }}-ref">{{ post.category }}</a>
 		      	<span class="post-date">Added {{ post.date | date_to_string }}</span>
 	      </li>
 	    {% endfor %}
