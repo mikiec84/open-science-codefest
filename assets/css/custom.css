@@ -9,11 +9,11 @@ purple - 5e52a2
 
 @font-face {
     font-family: CodeLight;
-    src: url(/open-science-codefest/assets/font/codelight.otf);
+    src: url(/assets/font/codelight.otf);
 }
 @font-face {
     font-family: Code Bold;
-    src: url(/open-science-codefest/assets/font/codebold.otf);
+    src: url(/assets/font/codebold.otf);
 }
 
 html, body{
@@ -29,11 +29,14 @@ font-size: 2em;
 }
 ul{
 	list-style: none;
+	margin: 0px;
 }
 h1,
 .page-header h1 {
-font-family: Code Bold, Helvetica;
+font-family: Code Light, Helvetica;
 font-size: 3em;
+letter-spacing: 3px;
+font-size: 2em;
 }
 .fa {
 font-size: .8em;
@@ -53,6 +56,7 @@ color: #999;
 	.navbar .nav > li > a{
 		font-size: 1.5em;
 	}
+	
 	.container-fluid  p{
 		padding-left: 2%;
 		padding-right: 2%;
@@ -89,6 +93,7 @@ body#index a:hover,
 	height: 300px;
 	background-size: cover;
 	color: #FFF;
+	
 }
 .featured.over-image p{
 	background-color: rgba(0,0,0,.3)
@@ -106,16 +111,11 @@ body#index a:hover,
 	height: 100px;
 	background-position-y: 45%;
 }
-#index .featured:nth-child(1){
-	margin-top: 20px;
-}
 .featured h2 {
 	font-family: CodeLight, Helvetica, Arial, sans-serif;
 	font-size: 5em;
 	line-height: 1em;
 	width: auto;
-	color: #111;
-	background-color: #FFF;
 	padding: 5px 10px;
 	display: inline;
 }
@@ -277,6 +277,7 @@ a[href*="categories#Visualization"],a[href*="categories.html#visualization"],
 .tag_box a[href*="categories.html#visualization"]{ 
 	background-color: #5e52a2;
 }
+
 .center{
 	margin-left: auto;
 	margin-right: auto;
@@ -306,7 +307,7 @@ color: #FFF;
 }
 
 #location{
-	background-image: url(/open-science-codefest/assets/img/doubletree.jpg);
+	background-image: url(/assets/img/doubletree.jpg);
 	height: 400px;
 	background-size: cover;
 	background-repeat: no-repeat;	
@@ -333,17 +334,17 @@ width: 49%;
 }
 
 #beaches{
-	background-image: url(/open-science-codefest/assets/img/waterfront.jpg);
+	background-image: url(/assets/img/waterfront.jpg);
 }
 #stearnswharf{
-		background-image: url(/open-science-codefest/assets/img/stearnswharf.jpg);
+		background-image: url(/assets/img/stearnswharf.jpg);
 	
 }
 #statest{
-		background-image: url(/open-science-codefest/assets/img/statest.jpg);
+		background-image: url(/assets/img/statest.jpg);
 }
 #more-attractions{
-		background-image: url(/open-science-codefest/assets/img/palmtrees.jpg);
+		background-image: url(/assets/img/palmtrees.jpg);
 }
 #more-attractions p{
 	background-color: #111;
@@ -359,7 +360,7 @@ width: 49%;
 	background-position-x: 40%;
 }
 #attractions{
-		background-image: url(/open-science-codefest/assets/img/onbike.jpg);
+		background-image: url(/assets/img/onbike.jpg);
 		margin-top: 20px;
 }
 #details p{
