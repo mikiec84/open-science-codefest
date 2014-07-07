@@ -135,7 +135,7 @@ body#index a:hover,
 } 
 
 #design{
-	background-image: url(/assets/img/design.jpg);
+	background-image: url(/open-science-codefest/assets/img/design.jpg);
 }
 #design p{
 	background-color: rgba(0,0,0,.3);
@@ -147,7 +147,7 @@ body#index a:hover,
 	background-color: #5e52a2;
 }
 #discuss{
-	background-image: url(/assets/img/discuss.jpg);
+	background-image: url(/open-science-codefest/assets/img/discuss.jpg);
 }
 #discuss p{
 	background-color: transparent;
@@ -355,7 +355,7 @@ width: 49%;
 	color: #FFF;
 }
 #register{
-	background-image: url(/assets/img/register.jpg);
+	background-image: url(/open-science-codefest/assets/img/register.jpg);
 	background-position-x: 40%;
 }
 #attractions{
