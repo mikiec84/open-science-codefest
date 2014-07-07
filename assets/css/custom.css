@@ -53,6 +53,10 @@ color: #999;
 	.navbar .nav > li > a{
 		font-size: 1.5em;
 	}
+	.container-fluid  p{
+		padding-left: 2%;
+		padding-right: 2%;
+	}
 }
 
 @media (max-width: 450px){
@@ -86,6 +90,18 @@ body#index a:hover,
 	background-size: cover;
 	color: #FFF;
 }
+.featured.over-image p{
+	background-color: rgba(0,0,0,.3)
+}
+.featured a{
+	color: #FFF;
+	text-decoration: underline;
+}
+#index .featured{
+		width: 46%;
+	float: left;
+	min-width: 300px;
+}
 .featured.halfheight{
 	height: 100px;
 	background-position-y: 45%;
@@ -110,31 +126,38 @@ body#index a:hover,
 	min-width: 250px;
 	width: 48%;
 	line-height: 1.6em;
-	color: #111;
-	background-color: #FFF;
 	margin-top: 20px;
 	padding: 5px 10px;
+	color: #FFF;
 }
+#index .featured p{
+	color: #FFF;
+} 
 
 #design{
-	background-image: url(/open-science-codefest/assets/img/design.jpg);
+	background-image: url(/assets/img/design.jpg);
+}
+#design p{
+	background-color: rgba(0,0,0,.3);
 }
 #analyze{
+	background-color: #00adef;
 }
 #code{
+	background-color: #5e52a2;
 }
 #discuss{
-	background-image: url(/open-science-codefest/assets/img/discuss.jpg);
+	background-image: url(/assets/img/discuss.jpg);
 }
 #discuss p{
 	background-color: transparent;
 	color: #FFF;
 }
-#code h2,
-#analyze h2,
 #details h2{
-	background-color: #111;
-	color: #FFF;
+	color: #111;
+}
+#details p{
+	color: #111;
 }
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a,
 #index .dropdown-menu > li > a:hover{
@@ -154,6 +177,7 @@ body#index a:hover,
 	font-family: CodeLight, Arial, sans-serif;
 	letter-spacing: 1px;
 	font-size: 3em;
+	line-height: 1em;
 }
 .posts-title{
 	display: block;
@@ -248,7 +272,11 @@ a[href*="categories#Meta"],a[href*="categories.html#meta"],
 .tag_box a[href*="categories.html#meta"]{ 
 	background-color: #999;
 }
-
+a[href*="categories#Visualization"],a[href*="categories.html#visualization"],
+.posts-title a[href*="categories#Visualization"], .posts-title a[href*="categories.html#visualization"],
+.tag_box a[href*="categories.html#visualization"]{ 
+	background-color: #5e52a2;
+}
 .center{
 	margin-left: auto;
 	margin-right: auto;
@@ -326,6 +354,10 @@ width: 49%;
 #more-attractions a{
 	color: #FFF;
 }
+#register{
+	background-image: url(/assets/img/register.jpg);
+	background-position-x: 40%;
+}
 #attractions{
 		background-image: url(/open-science-codefest/assets/img/onbike.jpg);
 		margin-top: 20px;
@@ -339,5 +371,14 @@ em{
 	font-style: normal;
 }
 
+#intro{
+	font-size: 1.5em;
+	line-height: 1.8em;
+	padding-left: 2%;
+	padding-right: 2%;
+}
 
+a.lightbox-41817591638969:hover {
+cursor: pointer;
+}
 

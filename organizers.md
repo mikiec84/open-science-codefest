@@ -8,25 +8,10 @@ title: Organizing Committee
 - Matthew B. Jones (NCEAS/ISEES)
 - Mark Schildhauer (NCEAS/ISEES)
 - Ray Idaszak (RENCI/WSSI)
+- Lauren Walker (NCEAS)
+- Margaret O'Brien (SBC LTER)
+- Ben Leinfelder (NCEAS)
+- Chris Jones (NCEAS)
 
-# Nominees to be contacted
-- Trisha Cruse
-- Carly Strasser
-- Timothee Poisot
-- Naupaka Zimmerman
-- Dave Harris
-- Carl Boettiger
-- Karthik Ram
-- Margaret O'Brien
-- Ben Leinfelder
-- Lauren Walker
-- Heather Piwowar
-- Peter Fox
-- Victoria Stodden
-- Ilkay Altintas
-- Kerstin Lenhart
-- Ray Idaszak
-- Chris Lenhardt
-
-
+	We are in the process of adding organizers, please <a href="mailto:codefest@nceas.ucsb.edu">let us know </a> if you are interested. 
 

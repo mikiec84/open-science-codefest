@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Session template -- copy me to create a new session"
 description: "Provide a brief sentence overview of the session."
 category: Meta 
