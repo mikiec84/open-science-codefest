@@ -67,6 +67,9 @@ color: #999;
 	#attractions h2{
 		font-size: 4em;
 	}
+	#statest{
+		background-position-x: 50%;
+	}
 }
 @media (max-width: 979px){
 	.navbar .container {
@@ -93,7 +96,7 @@ body#index a:hover,
 .featured.over-image p{
 	background-color: rgba(0,0,0,.3)
 }
-.featured a{
+.featured.over-image a{
 	color: #FFF;
 	text-decoration: underline;
 }
@@ -151,6 +154,9 @@ body#index a:hover,
 	background-color: transparent;
 	color: #FFF;
 }
+#details{
+	height: auto;
+}
 #details h2{
 	color: #111;
 }
@@ -196,16 +202,8 @@ body#index a:hover,
 	margin-right: 0px;
 }
 .posts-title a{
-	color: #111;
+	color: #0088cc;
 	text-align: left;
-}
-.posts-title a[href*=categories] {
-	display: block;
-	margin-top: 10px;
-	width: auto;
-	margin-top: 1em;
-	margin-bottom: 1em;
-	text-align: center;
 }
 .posts-title .post-date{
 	display: block;
