@@ -13,8 +13,6 @@
       {% assign HOME_PATH = "/" %}
     {% endif %}
     
-    {% assign HOME_PATH = "/open-science-codefest/" %}
-
     {% if site.JB.ASSET_PATH %}
       {% assign ASSET_PATH = site.JB.ASSET_PATH %}
     {% else %}
