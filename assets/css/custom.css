@@ -32,7 +32,7 @@ ul{
 }
 h1,
 .page-header h1 {
-font-family: Code Bold, Helvetica;
+font-family: Helvetica, Arial, sans-serif;
 font-size: 3em;
 }
 .fa {
@@ -114,8 +114,6 @@ body#index a:hover,
 	font-size: 5em;
 	line-height: 1em;
 	width: auto;
-	color: #111;
-	background-color: #FFF;
 	padding: 5px 10px;
 	display: inline;
 }
@@ -239,44 +237,6 @@ body#index a:hover,
 .bg-color3{background-color: #00adef;}
 .bg-color4{background-color: #5e52a2;}
 
-.posts-title a[href*=categories],
-a[href*=categories]{
-	background-color: #38b449;
-	color: #FFF;
-	padding: 1px 4px;
-	border-radius: 4px;
-	margin: 0px 2px;
-	display: inline-block;
-}
-.navbar .posts-title a[href*=categories],
-.navbar a[href*=categories]{
-	background-color: inherit;
-}
-.posts-title a[href*=categories]:hover,
-a[href*=categories]:hover{
-	color: #FFF !important;
-	background-color: #111;
-}
-a[href*="categories#Data management"],a[href*="categories.html#data management"],
-.posts-title a[href*="categories#Data management"], .posts-title a[href*="categories.html#data management"],
-.tag_box a[href*="categories.html#data management"]{ 
-	background-color: #00adef;
-}
-a[href*="categories#Data science"],a[href*="categories.html#data science"], 
-.posts-title a[href*="categories#Data science"], .posts-title a[href*="categories.html#data science"],
-.tag_box a[href*="categories.html#data science"]{ 
-	background-color: #de2d34;
-}
-a[href*="categories#Meta"],a[href*="categories.html#meta"],
-.posts-title a[href*="categories#Meta"], .posts-title a[href*="categories.html#meta"],
-.tag_box a[href*="categories.html#meta"]{ 
-	background-color: #999;
-}
-a[href*="categories#Visualization"],a[href*="categories.html#visualization"],
-.posts-title a[href*="categories#Visualization"], .posts-title a[href*="categories.html#visualization"],
-.tag_box a[href*="categories.html#visualization"]{ 
-	background-color: #5e52a2;
-}
 .center{
 	margin-left: auto;
 	margin-right: auto;
@@ -301,7 +261,7 @@ color: #FFF;
 }
 
 #sponsors{
-	background-color: #111;
+	background-color: #000;
 	color: #FFF;
 }
 
@@ -382,3 +342,8 @@ a.lightbox-41817591638969:hover {
 cursor: pointer;
 }
 
+footer{
+	padding: 0px 2%;
+	margin-top: 0px;
+	font-size: .8em;
+}

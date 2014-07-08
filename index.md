@@ -34,7 +34,7 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	    {% for post in site.posts limit:15 %}
 	      <li class="posts-title">
 		      	<a href="{{ HOME_PATH }}{{ post.url }}">{{ post.title }}</a>
-		      	<a href="{{ HOME_PATH }}categories.html#{{ post.category }}-ref">{{ post.category }}</a>
+		      	<span class="label label-info">{{ post.category }}</span>
 		      	<span class="post-date">Added {{ post.date | date_to_string }}</span>
 	      </li>
 	    {% endfor %}
