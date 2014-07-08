@@ -9,21 +9,21 @@
           <div class="nav-collapse">
             <ul class="nav">
 
-              {% if page.url == "{{ HOME_PATH }}sessions.html" %}<li class="active">{% else %}<li>{% endif %}
-                <a href="{{ HOME_PATH }}sessions.html">
+              {% if page.url == "{{ BASE_PATH }}sessions.html" %}<li class="active">{% else %}<li>{% endif %}
+                <a href="{{ BASE_PATH }}sessions.html">
                   Sessions
                   <b class="caret"></b>
                 </a>
               </li>
 
-              {% if page.url == "{{ HOME_PATH }}logistics.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="logistics.html">Logistics</a></li>
-              {% if page.url == "{{ HOME_PATH }}organizers.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ HOME_PATH }}organizers.html">Organizers</a></li>
-              {% if page.url == "{{ HOME_PATH }}registration.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ HOME_PATH }}registration.html">Registration</a></li>
+              {% if page.url == "{{ BASE_PATH }}logistics.html" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ BASE_PATH }}logistics.html">Logistics</a></li>
+              {% if page.url == "{{ BASE_PATH }}organizers.html" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ BASE_PATH }}organizers.html">Organizers</a></li>
+              {% if page.url == "{{ BASE_PATH }}registration.html" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ BASE_PATH }}registration.html">Registration</a></li>
 
-              <li><a href="{{ HOME_PATH }}atom.xml"><i class="icon-rss"></i></a></li>
+              <li><a href="{{ BASE_PATH }}atom.xml"><i class="icon-rss"></i></a></li>
 
               <li><a href="http://www.twitter.com/metamattj"><i class="icon-twitter"></i></a></li>
 
