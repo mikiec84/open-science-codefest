@@ -12,16 +12,20 @@ We're looking for people that want to help with organizing the Codefest.  The fo
 - Naupaka Zimmerman
 - Dave Harris
 - Ted Hart
+- Laura Christopherson
+- Chris Lenhardt
+- Karthik Ram, Carl Boettiger, Scott Chamberlain
+- Corinna Gries
+- Margaret O'Brien
+- Carly Strasser
+- Trisha Cruse
+- John Kunze
 
 # To be contacted
 
-- Karthik Ram, Carl Boettiger, Scott Chamberlain
-- Laura Christopherson
-- Chris Lenhardt
-- Corinna Gries
-- Carly Strasser
 - Heather Piwowar
 - Peter Fox
+- Chris Mattmann
 - Victoria Stodden
 - Ilkay Altintas
 - Kerstin Lenhart
