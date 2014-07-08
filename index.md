@@ -33,7 +33,7 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	  <ul class="posts">
 	    {% for post in site.posts limit:15 %}
 	      <li class="posts-title">
-		      	<a href="{{ HOME_PATH }}{{ post.url }}">{{ post.title }}</a>
+		      	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
 		      	<span class="label label-info">{{ post.category }}</span>
 		      	<span class="post-date">Added {{ post.date | date_to_string }}</span>
 	      </li>
@@ -60,19 +60,19 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	  <div class="row-fluid">
 	    <div class="span3 text-box">
 	      <p>
-	      	<img src="{{ HOME_PATH }}assets/img/renci.jpg" /><br/>
+	      	<img src="{{ BASE_PATH }}assets/img/renci.jpg" /><br/>
 	      	<a href="http://renci.org/">RENCI</a>
 	      </p>
 	    </div>
 	    <div class="span3 text-box">
 	      <p>
-	          <img src="{{ HOME_PATH }}assets/img/logo-nceas-white.png" /><br />
+	          <img src="{{ BASE_PATH }}assets/img/logo-nceas-white.png" /><br />
 	          <a href="http://www.nceas.ucsb.edu">NCEAS</a>
 	      </p>
 	    </div>
 	   <div class="span3 text-box">
 	      <p>
-	       <img src="{{ HOME_PATH }}assets/img/nsf.gif" height="85" style="height:85px"/><br />
+	       <img src="{{ BASE_PATH }}assets/img/nsf.gif" height="85" style="height:85px"/><br />
 	          <a href="http://www.nsf.gov/">NSF</a><br/>
 	          <span class="tiny">Acknowledgement: This material is based upon work supported by the National Science Foundation under Grant Number 1216894</span>
 	      </p>
@@ -81,7 +81,7 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	    
 	      <p>
 	      <a href="http://isees.nceas.ucsb.edu">ISEES</a><br />
-	      <a href="http://example.com">WSSI</a>
+	      <a href="">WSSI</a>
 	      </p>
 	    </div>
 	  </div>
