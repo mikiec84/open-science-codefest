@@ -6,16 +6,20 @@ title: Nomiees for the Organizing Committee
 We're looking for people that want to help with organizing the Codefest.  The following people have been nominated, and we are in the process of contacting them to see if they're interested.
 
 
-# Nominees 
+# Emailed Nominees 
 
-- Trisha Cruse
-- Timothee Poisot
+- Timothee Poisot <t.poisot@gmail.com>
 - Naupaka Zimmerman
 - Dave Harris
-- Carl Boettiger
+- Ted Hart
+
+# To be contacted
+
+- Karthik Ram, Carl Boettiger, Scott Chamberlain
+- Laura Christopherson
+- Chris Lenhardt
 - Corinna Gries
 - Carly Strasser
-- Karthik Ram
 - Heather Piwowar
 - Peter Fox
 - Victoria Stodden
@@ -35,4 +39,9 @@ We're looking for people that want to help with organizing the Codefest.  The fo
 - Jim Frew
 - Peter Slaughter
 - Kaitlin Thaney
+- Arfon Smith
+- Dan Katz
+- Neil Chue Hong
 - Daniel Falster 
+- Chris Jones (NCEAS)
+- Trisha Cruse
