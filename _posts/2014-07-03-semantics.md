@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for adding semantics to your metadata"
 description: "Techniques for adding semantics to your metadata"
 category: Semantics 
-tags: [Semantics][Metadata]
+tags: [semantics, metadata]
 ---
 {% include JB/setup %}
 
