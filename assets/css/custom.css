@@ -32,7 +32,7 @@ ul{
 }
 h1,
 .page-header h1 {
-font-family: CodeBold, Helvetica;
+font-family: Helvetica, Arial, sans-serif;
 font-size: 3em;
 }
 .fa {
@@ -261,7 +261,7 @@ color: #FFF;
 }
 
 #sponsors{
-	background-color: #111;
+	background-color: #000;
 	color: #FFF;
 }
 
