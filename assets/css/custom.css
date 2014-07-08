@@ -340,8 +340,13 @@ a.lightbox-41817591638969:hover {
 cursor: pointer;
 }
 
+.tiny{
+	font-size: 0.8em;
+	color: #DDD;
+}
+
 footer{
 	padding: 0px 2%;
-	margin-top: 0px;
+	margin-top: 10px;
 	font-size: .8em;
 }
