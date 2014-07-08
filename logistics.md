@@ -24,6 +24,7 @@ title: venue
 	<h2>Details</h2>
 	<p><em>Dates</em> September 2-4, 2014</p>
 	<p><em>Fee</em> There is no registration fee for Open Science Codefest 2014.</p>
+	<p><em>Lodging</em> Rooms at the Fess Parker have been reserved for Open Science Codefest at a special discounted rate. Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount. </p>
 	<p>Breakfast and lunch will be provided.</p>
 </div>
 
