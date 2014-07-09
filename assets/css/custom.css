@@ -66,7 +66,7 @@ body#index a:hover,
 }
 
 .featured{
-	padding: 20px 2%;
+	padding: 20px 1%;
 	height: 300px;
 	background-size: cover;
 	color: #FFF;
@@ -79,9 +79,9 @@ body#index a:hover,
 	text-decoration: underline;
 }
 #index .featured{
-		width: 46%;
+	width: 23%;
 	float: left;
-	min-width: 300px;
+	height: 200px;
 }
 .featured.halfheight{
 	height: 100px;
@@ -92,18 +92,16 @@ body#index a:hover,
 }
 .featured h2 {
 	font-family: CodeLight, Helvetica, Arial, sans-serif;
-	font-size: 5em;
+	font-size: 2.5em;
 	line-height: 1em;
 	width: auto;
 	padding: 5px 10px;
 	display: inline;
 }
 .featured p {
-	font-size: 1.5em;
+	font-size: 1.1em;
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: 100;
-	min-width: 250px;
-	width: 48%;
 	line-height: 1.6em;
 	margin-top: 20px;
 	padding: 5px 10px;
@@ -113,24 +111,36 @@ body#index a:hover,
 	color: #FFF;
 } 
 
+#register-featured{
+	background-image: url(/assets/img/conference.jpg);
+	float: none;
+	width: 100%;
+	margin-bottom: 20px;
+}
 #design{
 	background-image: url(/assets/img/design.jpg);
 }
-#design p{
+.featured.over-image p{
 	background-color: rgba(0,0,0,.3);
+	width: 50%;
+}
+#index .featured.over-image p{
+	width: 93%;
 }
 #analyze{
-	background-color: #00adef;
+	background-color: #8ec63e;
+	background-image: url(/assets/img/tetra-bg.png);
+	background-size: 200%;
+	
 }
 #code{
-	background-color: #5e52a2;
+	background-color: #265863;
+	background-image: url(/assets/img/tetra-bg.png);
+	background-size: 150%;
+	background-position-x: 100%;
 }
 #discuss{
 	background-image: url(/assets/img/discuss.jpg);
-}
-#discuss p{
-	background-color: transparent;
-	color: #FFF;
 }
 #details{
 	height: auto;
@@ -335,7 +345,6 @@ em{
 }
 
 #intro{
-	font-size: 1.5em;
 	line-height: 1.8em;
 	padding-left: 2%;
 	padding-right: 2%;
@@ -348,6 +357,17 @@ cursor: pointer;
 .tiny{
 	font-size: 0.8em;
 	color: #DDD;
+}
+
+.filler{
+	background-color: #111;
+	margin-bottom: 20px;
+}
+
+.filler  img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 footer{
@@ -377,6 +397,12 @@ footer{
 		padding-left: 2%;
 		padding-right: 2%;
 	}
+	.featured h2{
+		font-size: 2em;
+	}
+	.featured p{
+		font-size: 1em;
+	}
 }
 
 @media (max-width: 450px){
@@ -395,6 +421,23 @@ footer{
 	}
 	#titleheader .mobile{
 		display: block;
+	}
+	
+	#index .featured{
+		width: 48%;
+	}
+	
+	.featured p{
+		font-size: 1.1em;
+	}
+	
+	.featured h2{
+		font-size: 3em;
+	}
+	
+	.filler img{
+		max-width: 600px;
+		margin-left: -35%;
 	}
 }
 @media (max-width: 979px){
