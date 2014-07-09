@@ -353,6 +353,9 @@ footer{
 	font-size: .8em;
 }
 
+#titleheader .mobile{
+	display: none;
+}
 
 
 /**** RESPONSIVE STYLES - KEEP AT END TO OVERRIDE REGULAR STYLES *****/
@@ -375,7 +378,6 @@ footer{
 
 @media (max-width: 450px){
 	#titleheader > img {
-		min-width: 450px;
 		margin-right: -100%;
 		height: auto;
 	}
@@ -384,6 +386,12 @@ footer{
 	}
 	#statest{
 		background-position-x: 50%;
+	}
+		#titleheader .nonmobile{
+		display: none;
+	}
+	#titleheader .mobile{
+		display: block;
 	}
 	
 }
