@@ -50,10 +50,6 @@ color: #999;
 #titleheader,
 .wrapper{
 	margin-top: 36px;
-	}
-	
-.navbar .nav > li > a{
-	font-size: 1.5em;
 }
 .container-fluid  p{
 	padding-left: 2%;
