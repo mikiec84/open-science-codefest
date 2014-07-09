@@ -6,7 +6,12 @@ title: Open Science Codefest 2014
 <p id="intro">
 The Open Science Codefest will gather researchers from ecology, biodiversity science, and other earth and environmental sciences to collaborate on code projects of mutual interest. Many people are developing software packages for use in the environmental and earth sciences, but there are only rare opportunities for collaboration on these works. We are inspired by hack-a-thon sessions at major computing conferences around the world, and think that major advances in science can occur when people with shared interests gather and hammer out new solutions.
 </p>
-<div class="container-fluid featured" id="design">
+
+<div class="filler">
+	<a class="lightbox-41817591638969"><img src="{{ BASE_PATH }}assets/img/conference.jpg" /></a>
+</div>
+
+<div class="container-fluid featured over-image" id="design">
 	<h2>Design</h2>
 	<p>Collaborate with others to conceive, extend, and design software for open science.</p>
 </div>
@@ -14,13 +19,13 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	<h2>Analyze</h2>
     <p>Integrate, analyze, and model scientific data to solve pressing environmental issues.</p>
 </div>
+<div class="container-fluid featured over-image" id="discuss">
+	<h2>Discuss</h2>
+    <p>Explore software needs for environmental science, find solutions to vexing software issues.</p>
+</div>
 <div class="container-fluid featured" id="code">
 	<h2>Code</h2>
     <p>Put ideas into reality in real time. Prototype open source software for science with others.</p>
-</div>
-<div class="container-fluid featured" id="discuss">
-	<h2>Discuss</h2>
-    <p>Explore software needs for environmental science, find solutions to vexing software issues.</p>
 </div>
 <div class="clearfix"></div>
 <div class="container-fluid" id="sessions">

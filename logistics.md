@@ -1,16 +1,16 @@
 ---
 layout: default
-title: venue
+title: Open Science Codefest Venue
 ---
 
 <div class="container-fluid featured over-image" id="location">
 	<h2>Location</h2>
     <p>Santa Barbara, CA</p>
-    <p><a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Doubletree</a><i class="fa fa-external-link"></i></p>
+    <p><a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Hotel</a><i class="fa fa-external-link"></i></p>
 </div>
 <div class="container-fluid" id="location-map">
     <div class="details">
-	    <p><a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Doubletree</a><i class="fa fa-external-link"></i> <br/>
+	    <p><a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Hotel</a><i class="fa fa-external-link"></i> <br/>
 	    633 East Cabrillo Boulevard <br/>
 	    Santa Barbara, CA<br/>
 	    93103</p>
@@ -25,7 +25,7 @@ title: venue
 	<p><em>Dates</em> September 2-4, 2014</p>
 	<p><em>Fee</em> There is no registration fee for Open Science Codefest 2014.</p>
 	<p><em>Lodging</em> Rooms at the Fess Parker have been reserved for Open Science Codefest at a special discounted rate. Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount. </p>
-	<p>Breakfast and lunch will be provided.</p>
+	<p><em>Food</em> Breakfast and lunch will be provided.</p>
 </div>
 
 <div class="container-fluid featured over-image" id="attractions">
