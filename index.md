@@ -60,19 +60,19 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	  <div class="row-fluid">
 	    <div class="span3 text-box">
 	      <p>
-	      	<img src="{{ BASE_PATH }}assets/img/renci.jpg" /><br/>
+	      	<img src="{{ BASE_PATH }}assets/img/renci.jpg" class="renci"/><br/>
 	      	<a href="http://renci.org/">RENCI</a>
 	      </p>
 	    </div>
 	    <div class="span3 text-box">
 	      <p>
-	          <img src="{{ BASE_PATH }}assets/img/logo-nceas-white.png" /><br />
+	          <img src="{{ BASE_PATH }}assets/img/nceas.png" class="nceas" /><br />
 	          <a href="http://www.nceas.ucsb.edu">NCEAS</a>
 	      </p>
 	    </div>
 	   <div class="span3 text-box">
 	      <p>
-	       <img src="{{ BASE_PATH }}assets/img/nsf.gif" height="85" style="height:85px"/><br />
+	       <img src="{{ BASE_PATH }}assets/img/nsf.gif"  class="nsf"/><br />
 	          <a href="http://www.nsf.gov/">NSF</a><br/>
 	          <span class="tiny">Acknowledgement: This material is based upon work supported by the National Science Foundation under Grant Number 1216894</span>
 	      </p>
