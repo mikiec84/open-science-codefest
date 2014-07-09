@@ -50,9 +50,15 @@ margin-left: 5px;
 color: #999;
 }
 
-#titleheader{
+#titleheader,
+.wrapper{
 	margin-top: 36px;
 }
+.container-fluid  p{
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
 
 body#index a:hover,
 .navbar .nav > li > a:hover{
@@ -350,6 +356,9 @@ footer{
 	font-size: .8em;
 }
 
+#titleheader .mobile{
+	display: none;
+}
 
 
 /**** RESPONSIVE STYLES - KEEP AT END TO OVERRIDE REGULAR STYLES *****/
@@ -372,7 +381,6 @@ footer{
 
 @media (max-width: 450px){
 	#titleheader > img {
-		max-width: 400px;
 		margin-right: -100%;
 		height: auto;
 	}
@@ -381,6 +389,12 @@ footer{
 	}
 	#statest{
 		background-position-x: 50%;
+	}
+	#titleheader .nonmobile{
+		display: none;
+	}
+	#titleheader .mobile{
+		display: block;
 	}
 }
 @media (max-width: 979px){
