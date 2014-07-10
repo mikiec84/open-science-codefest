@@ -39,6 +39,10 @@ ul{
 a{
 	color: #069286;
 }
+a:hover{
+	color: #8EC540;
+	text-decoration: none;
+}
 h1,
 .page-header h1 {
 font-family: Helvetica, Arial, sans-serif;
@@ -59,11 +63,11 @@ color: #999;
 	padding-right: 2%;
 }
 
-
 body#index a:hover,
 .navbar .nav > li > a:hover{
-	color: #00adef;
+	color: #8EC540;
 }
+
 
 .featured{
 	padding: 20px 1%;
