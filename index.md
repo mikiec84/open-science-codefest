@@ -19,6 +19,10 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	<h2>Analyze</h2>
     <p>Integrate, analyze, and model scientific data to solve pressing environmental issues.</p>
 </div>
+<div class="container-fluid featured over-image grid" id="discuss">
+	<h2>Discuss</h2>
+    <p>Explore software needs for environmental science, find solutions to vexing software issues.</p>
+</div>
 <div class="container-fluid featured grid" id="code">
 	<h2>Code</h2>
     <p>Put ideas into reality in real time. Prototype open source software for science with others.</p>
