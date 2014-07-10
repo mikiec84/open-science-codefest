@@ -11,19 +11,19 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	<a class="lightbox-41817591638969"><img src="{{ BASE_PATH }}assets/img/conference.jpg" /></a>
 </div>
 
-<div class="container-fluid featured over-image" id="design">
+<div class="container-fluid featured over-image grid" id="design">
 	<h2>Design</h2>
 	<p>Collaborate with others to conceive, extend, and design software for open science.</p>
 </div>
-<div class="container-fluid featured" id="analyze">
+<div class="container-fluid featured grid" id="analyze">
 	<h2>Analyze</h2>
     <p>Integrate, analyze, and model scientific data to solve pressing environmental issues.</p>
 </div>
-<div class="container-fluid featured over-image" id="discuss">
+<div class="container-fluid featured over-image grid" id="discuss">
 	<h2>Discuss</h2>
     <p>Explore software needs for environmental science, find solutions to vexing software issues.</p>
 </div>
-<div class="container-fluid featured" id="code">
+<div class="container-fluid featured grid" id="code">
 	<h2>Code</h2>
     <p>Put ideas into reality in real time. Prototype open source software for science with others.</p>
 </div>
@@ -39,7 +39,7 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	    {% for post in site.posts limit:15 %}
 	      <li class="posts-title">
 		      	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-		      	<span class="label label-info">{{ post.category }}</span>
+		      	<span class="label">{{ post.category }}</span>
 		      	<span class="post-date">Added {{ post.date | date_to_string }}</span>
 	      </li>
 	    {% endfor %}

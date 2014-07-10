@@ -3,7 +3,7 @@ layout: default
 title: Organizing Committee
 ---
 
-# Organizing Committee
+## Organizing Committee
 
 - Matthew B. Jones (NCEAS/ISEES)
 - Mark Schildhauer (NCEAS/ISEES)

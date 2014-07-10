@@ -26,7 +26,7 @@ Usage:
     {% endfor %}
   {% else %}
     {% for tag in tags_list %} 
-    	<li><span class="label label-info">{{ tag[0] }} <span>{{ tag[1].size }}</span></span></li>
+    	<li><span class="label">{{ tag[0] }} <span>{{ tag[1].size }}</span></span></li>
     {% endfor %}
   {% endif %}
 {% endif %}
