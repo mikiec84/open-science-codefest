@@ -4,7 +4,10 @@ title: Open Science Codefest 2014
 ---
 {% include JB/setup %}
 <p id="intro">
-The Open Science Codefest will gather researchers from ecology, biodiversity science, and other earth and environmental sciences to collaborate on code projects of mutual interest. Many people are developing software packages for use in the environmental and earth sciences, but there are only rare opportunities for collaboration on these works. We are inspired by hack-a-thon sessions at major computing conferences around the world, and think that major advances in science can occur when people with shared interests gather and hammer out new solutions.
+Do you have a coding project that could benefit from collaboration, or software skills you’d like to share?  The Open Science Codefest will gather researchers from ecology, biodiversity science, and other earth and environmental sciences with computer scientists, software engineers, and developers to collaborate on coding projects of mutual interest.
+<br/><br/>
+ 
+Inspired by hack-a-thons and organized in the participant-driven, unconference style, the Open Science Codefest is for anyone with an interesting problem, solution, or idea that intersects environmental science and computer programming.  <em>This is the conference where you will actually get stuff done</em> -- whether that's coding up a new R module, developing an ontology, working on a data repository, creating data visualizations, dreaming up an interactive eco-game, discussing an idea, or any other concrete collaborative goal that interests a group of people.
 </p>
 
 <div class="filler">
@@ -33,7 +36,7 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	  Sessions
 	</div> 
 	
-	<p>The Codefest is <a href="http://en.wikipedia.org/wiki/Unconference">yours to customize, organize, and create</a>, with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to stimulate productivity and community building, while giving ample opportunities for collaborative coding and design sessions, <a href="http://en.wikipedia.org/wiki/Lightning_talk">ignite talks</a> that promote communication among participants as activities unfold, and birds-of-a-feather discussions.</p>
+	<p>The Codefest is <a href="http://en.wikipedia.org/wiki/Unconference">yours to customize, organize, and create</a>, with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to stimulate productivity and community building, while giving ample opportunities for collaborative coding and design sessions, <a href="http://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> that promote communication among participants as activities unfold, and birds-of-a-feather discussions.</p>
 	
 	  <ul class="posts">
 	    {% for post in site.posts limit:15 %}
