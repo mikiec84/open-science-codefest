@@ -36,6 +36,9 @@ font-size: 2em;
 ul{
 	list-style: none;
 }
+a{
+	color: #069286;
+}
 h1,
 .page-header h1 {
 font-family: Helvetica, Arial, sans-serif;
@@ -75,7 +78,7 @@ body#index a:hover,
 	color: #FFF;
 	text-decoration: underline;
 }
-#index .featured{
+.featured.grid{
 	width: 23%;
 	float: left;
 	height: 200px;
@@ -104,7 +107,7 @@ body#index a:hover,
 	padding: 5px 10px;
 	color: #FFF;
 }
-#index .featured p{
+.featured.grid p{
 	color: #FFF;
 } 
 
@@ -120,9 +123,10 @@ body#index a:hover,
 .featured.over-image p{
 	background-color: rgba(0,0,0,.3);
 	width: 50%;
+	width: 50%;
 }
-#index .featured.over-image p{
-	width: 93%;
+.featured.over-image.grid p{
+	width: 87%;
 }
 #analyze{
 	background-color: #8ec63e;
@@ -183,7 +187,7 @@ body#index a:hover,
 	margin-right: 0px;
 }
 .posts-title a{
-	color: #0088cc;
+	color: #265863;
 	text-align: left;
 }
 .posts-title .post-date{
@@ -216,24 +220,12 @@ body#index a:hover,
 	font-family: Squares Bold;
 	letter-spacing: 1px;
 	font-size: 1.2em;
-	font-size: 1.8em;
-}
-.navbar-inner{
-	height: 22px;
-	padding-top: 10px;
-	padding-bottom: 4px;
+	transition: all .3s;
 }
 
-.navbar .nav > li > .important {
-	background-color: #FF3A3E;
-	color: #fff;
-	text-transform: uppercase;
-	height: 36px;
-	margin-top: -10px;
-	line-height: 42px;
-	font-family: Squares Bold;
-	letter-spacing: 1px;
-	font-size: 1.2em;
+.navbar .nav > li > .important:hover {
+	background-color: #159488;
+	color: #FFF;
 }
 
 .hero-icon{
@@ -246,7 +238,15 @@ body#index a:hover,
 	color: white;
 	font-size: 24px;
 }
-
+.label{
+	background-color: #8ec63e;
+	line-height: 1.2em;
+	color: #333;
+}
+.posts-title .label{
+	color: #FFF;
+	font-size: .8em;
+}
 .bg-color1{ background-color: #38b449;}
 .bg-color2{background-color: #de2d34;}
 .bg-color3{background-color: #00adef;}
@@ -270,7 +270,10 @@ color: #FFF;
 .tag_box a:hover{
 	background-color: #111;
 }
-
+.labels .label{
+	color: #FFF;
+	font-size: 1.1em;
+}
 #sessions{
 	background-color: #F9F9F9;
 }
@@ -300,6 +303,10 @@ color: #FFF;
 	background-repeat: no-repeat;	
 }
 
+#location p{
+	background-color: rgba(38,88,99,0.5);
+}
+
 #gmap_canvas {
 height: 300px;
 width: 102%;
@@ -307,14 +314,15 @@ float: left;
 }
 #location-map{
 	padding-top: 20px;
-	background-color: #EEE;
+	background-color: #111;
+	color: #FFF;
 }
 #location-map > .details{
 	float: left;
 margin-top: 20px;
 padding: 0px 1%;
 display: inline-block;
-font-size: 1.8em;
+font-size: 1.3em;
 line-height: 1.2em;
 font-weight: 200;
 width: 49%;
@@ -328,7 +336,8 @@ width: 49%;
 	
 }
 #statest{
-		background-image: url(/open-science-codefest/assets/img/statest.jpg);
+		background-image: url(/assets/img/statest.jpg);
+		background-position-x: 50%;
 }
 #more-attractions{
 		background-image: url(/open-science-codefest/assets/img/palmtrees.jpg);
@@ -395,6 +404,16 @@ footer{
 	display: none;
 }
 
+footer{
+	padding: 0px 2%;
+	margin-top: 10px;
+	font-size: .8em;
+}
+
+#titleheader .mobile{
+	display: none;
+}
+
 
 /**** RESPONSIVE STYLES - KEEP AT END TO OVERRIDE REGULAR STYLES *****/
 @media (max-width: 767px){
@@ -438,7 +457,7 @@ footer{
 		display: block;
 	}
 	
-	#index .featured{
+	.featured.grid{
 		width: 48%;
 	}
 	
@@ -454,6 +473,10 @@ footer{
 		max-width: 600px;
 		margin-left: -35%;
 	}
+	#location-map > .details{
+		float: none;
+		width: 100%;
+	}
 }
 @media (max-width: 979px){
 	.navbar .container {
@@ -475,70 +498,4 @@ footer{
 	}
 }
 
-footer{
-	padding: 0px 2%;
-	margin-top: 10px;
-	font-size: .8em;
-}
-
-#titleheader .mobile{
-	display: none;
-}
-
-
-/**** RESPONSIVE STYLES - KEEP AT END TO OVERRIDE REGULAR STYLES *****/
-@media (max-width: 767px){
-	body{
-		padding-left: 0px;
-		padding-right: 0px;
-	}
-	.container{
-		padding: 0px 2%;
-	}
-	.navbar .nav > li > a{
-		font-size: 1.5em;
-	}
-	.container-fluid  p{
-		padding-left: 2%;
-		padding-right: 2%;
-	}
-}
-
-@media (max-width: 450px){
-	#titleheader > img {
-		margin-right: -100%;
-		height: auto;
-	}
-	#attractions h2{
-		font-size: 4em;
-	}
-	#statest{
-		background-position-x: 50%;
-	}
-		#titleheader .nonmobile{
-		display: none;
-	}
-	#titleheader .mobile{
-		display: block;
-	}
 	
-}
-@media (max-width: 979px){
-	.navbar .container {
-		padding-left: 20px;
-		padding-right: 20px;
-	}
-	.navbar .nav{
-		background-color: #111;
-		border-radius: 5px;
-	}
-	.navbar-inner{
-		height: 35px;
-	}
-	.navbar .brand{
-		margin-top: 10px;
-	}
-	#titleheader{
-		margin-top: 0px;
-	}
-}

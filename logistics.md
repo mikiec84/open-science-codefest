@@ -31,15 +31,15 @@ title: Open Science Codefest Venue
 <div class="container-fluid featured over-image" id="attractions">
 	<h2>Local Attractions</h2>
 </div>
-<div class="container-fluid featured over-image" id="beaches">
+<div class="container-fluid featured over-image grid" id="beaches">
 	<p>Beaches</p>
 </div>
-<div class="container-fluid featured over-image" id="statest">
+<div class="container-fluid featured over-image grid" id="statest">
 	<p>Shopping on State Street</p>
 </div>
-<div class="container-fluid featured over-image" id="stearnswharf">
+<div class="container-fluid featured over-image grid" id="stearnswharf">
 	<p>Stearns Wharf</p>
 </div>
-<div class="container-fluid featured halfheight" id="more-attractions">
+<div class="container-fluid featured grid" id="more-attractions">
 	<p><a href="http://www.fessparkersantabarbarahotel.com/discover-santa-barbara/attractions/">See more</a><i class="fa fa-external-link"></i></p>
 </div>
