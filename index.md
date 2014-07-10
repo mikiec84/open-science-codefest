@@ -45,7 +45,7 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 	    {% endfor %}
 	  </ul>
 </div>
-<div class="container-fluid">
+<div class="container-fluid labels">
 	<div class="title" id="categories">
 	  Session Categories
 	</div> 

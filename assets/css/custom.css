@@ -272,7 +272,10 @@ color: #FFF;
 .tag_box a:hover{
 	background-color: #111;
 }
-
+.labels .label{
+	color: #FFF;
+	font-size: 1.1em;
+}
 #sessions{
 	background-color: #F9F9F9;
 }
