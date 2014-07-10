@@ -244,7 +244,7 @@ body#index a:hover,
 .label{
 	background-color: #8ec63e;
 	line-height: 1.2em;
-	color: #333;
+	font-size: 1.1em;
 }
 .posts-title .label{
 	color: #FFF;
