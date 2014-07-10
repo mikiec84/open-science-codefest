@@ -187,9 +187,6 @@ body#index a:hover,
 	border-bottom: #999 5px solid;
 	overflow: overlay;
 }
-.posts-title:nth-child(3){
-	margin-right: 0px;
-}
 .posts-title a{
 	color: #265863;
 	text-align: left;
