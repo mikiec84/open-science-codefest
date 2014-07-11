@@ -68,6 +68,11 @@ body#index a:hover,
 	color: #8EC540;
 }
 
+.navbar .hashtag .fa{
+	margin-right: 5px;
+	font-size: 1.1em;
+}
+
 .navbar .hashtag{
 	float: right;
 }
