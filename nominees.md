@@ -6,35 +6,44 @@ title: Nomiees for the Organizing Committee
 We're looking for people that want to help with organizing the Codefest.  The following people have been nominated, and we are in the process of contacting them to see if they're interested.
 
 
-# Emailed Nominees 
-
-- Timothee Poisot <t.poisot@gmail.com>
+# Accepted
 - Naupaka Zimmerman
-- Dave Harris
 - Ted Hart
 - Laura Christopherson
 - Chris Lenhardt
-- Karthik Ram, Carl Boettiger, Scott Chamberlain
+- Scott Chamberlain
 - Corinna Gries
 - Margaret O'Brien
 - Carly Strasser
 - Trisha Cruse
-- John Kunze
 - Amber Budden
 - Dave Vieglais
 - Bill Michener
-- Heather Piwowar
-- Jason Priem
+
+# Can't attend, but will help
+- Timothee Poisot <t.poisot@gmail.com>
 - Peter Fox
 - Deborah McGuinness
+- Kaitlin Thaney
+- Ethan White
+
+# Decline
+- John Kunze
+
+# Emailed Nominees 
+
+- Dave Harris
+- Karthik Ram
+- Carl Boettiger
+- Heather Piwowar
+- Jason Priem
 - Cyndy Chandler
 - Chris Mattmann
-- Kaitlin Thaney
 - Greg Wilson
-- Ethan White
 
 # To be contacted, depending on funds available
 
+- Greg Janee
 - Victoria Stodden
 - Ilkay Altintas
 - Kerstin Lenhart
