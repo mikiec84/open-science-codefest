@@ -68,6 +68,9 @@ body#index a:hover,
 	color: #8EC540;
 }
 
+.navbar .hashtag{
+	float: right;
+}
 
 .featured{
 	padding: 20px 1%;
