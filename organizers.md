@@ -11,6 +11,8 @@ title: Organizing Committee
 - Lauren Walker (NCEAS)
 - Margaret O'Brien (SBC LTER)
 - Ben Leinfelder (NCEAS)
+- Chris Jones (NCEAS)
+- Peter Slaughter (NCEAS)
 
 	We are in the process of adding organizers, please <a href="mailto:codefest@nceas.ucsb.edu">let us know </a> if you are interested. 
 
