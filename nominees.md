@@ -48,9 +48,14 @@ We're looking for people that want to help with organizing the Codefest.  The fo
 - Wade Sheldon
 - Other matlab folks
 - Jim Frew
-- Peter Slaughter
 - Arfon Smith
 - Dan Katz
 - Neil Chue Hong
 - Daniel Falster 
 - Chris Jones (NCEAS)
+- James Howison (http://james.howison.name/)
+- Mary Whitton (DFC)
+- Christine White (ESRI)
+- Hydroshare (Dave Tarboten, Jeff Heard, Ray)
+- CUASHI (Alva Couch, Jennifer Arrigo*, Rick Hooper)
+- Erin Robinson (ESIP*)
