@@ -29,5 +29,5 @@ title: Organizing Committee
 - Lauren Walker (NCEAS)
 - Naupaka Zimmerman (University of Arizona)
 
-	We are in the process of adding organizers, please <a href="mailto:codefest@nceas.ucsb.edu">let us know </a> if you are interested. 
+We are in the process of adding organizers, please <a href="mailto:codefest@nceas.ucsb.edu">let us know </a> if you are interested. 
 
