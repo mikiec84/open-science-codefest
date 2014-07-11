@@ -13,6 +13,7 @@ We're looking for people that want to help with organizing the Codefest.  The fo
 - Chris Lenhardt
 - Scott Chamberlain
 - Corinna Gries
+- Margaret O'Brien
 - Carly Strasser
 - Trisha Cruse
 - Amber Budden
@@ -46,10 +47,8 @@ We're looking for people that want to help with organizing the Codefest.  The fo
 - Victoria Stodden
 - Ilkay Altintas
 - Kerstin Lenhart
-- Chris Lenhardt
 - Marissa Strong (DMP Tool)
 - Ben Best
-- Amber Budden
 - SBA R Users Group
 - SBA Data Science group
 - Community Dynamics members
@@ -58,5 +57,14 @@ We're looking for people that want to help with organizing the Codefest.  The fo
 - Wade Sheldon
 - Other matlab folks
 - Jim Frew
-- Peter Slaughter
+- Arfon Smith
+- Dan Katz
+- Neil Chue Hong
 - Daniel Falster 
+- Chris Jones (NCEAS)
+- James Howison (http://james.howison.name/)
+- Mary Whitton (DFC)
+- Christine White (ESRI)
+- Hydroshare (Dave Tarboten, Jeff Heard, Ray)
+- CUASHI (Alva Couch, Jennifer Arrigo*, Rick Hooper)
+- Erin Robinson (ESIP*)
