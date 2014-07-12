@@ -8,19 +8,6 @@ pink (use sparingly) - EF3F43
 */
 
 
-/**** FONTS ***/
-@font-face {
-    font-family: CodeLight;
-    src: url(/open-science-codefest/assets/font/codelight.otf);
-}
-@font-face {
-    font-family: Squares;
-    src: url(/open-science-codefest/assets/font/squares/squaresbold.otf);
-}
-@font-face {
-    font-family: Code Bold;
-    src: url(/open-science-codefest/assets/font/codebold.otf);
-}
 
 html, body{
 	background-color: #FFF;
@@ -62,6 +49,7 @@ color: #999;
 	padding-left: 2%;
 	padding-right: 2%;
 }
+
 
 body#index a:hover,
 .navbar .nav > li > a:hover{
@@ -125,17 +113,12 @@ body#index a:hover,
 } 
 
 #register-featured{
-	background-image: url(/assets/img/conference.jpg);
 	float: none;
 	width: 100%;
 	margin-bottom: 20px;
 }
-#design{
-	background-image: url(/open-science-codefest/assets/img/design.jpg);
-}
 .featured.over-image p{
 	background-color: rgba(0,0,0,.3);
-	width: 50%;
 	width: 50%;
 }
 .featured.over-image.grid p{
@@ -143,18 +126,13 @@ body#index a:hover,
 }
 #analyze{
 	background-color: #8ec63e;
-	background-image: url(/open-science-codefest/assets/img/tetra-bg.png);
 	background-size: 200%;
 	
 }
 #code{
 	background-color: #265863;
-	background-image: url(/open-science-codefest/assets/img/tetra-bg.png);
 	background-size: 150%;
 	background-position-x: 100%;
-}
-#discuss{
-	background-image: url(/open-science-codefest/assets/img/discuss.jpg);
 }
 #details{
 	height: auto;
@@ -307,7 +285,6 @@ color: #FFF;
 	width: 200px;
 }
 #location{
-	background-image: url(/open-science-codefest/assets/img/doubletree.jpg);
 	height: 400px;
 	background-size: cover;
 	background-repeat: no-repeat;	
@@ -337,20 +314,8 @@ line-height: 1.2em;
 font-weight: 200;
 width: 49%;
 }
-
-#beaches{
-	background-image: url(/open-science-codefest/assets/img/waterfront.jpg);
-}
-#stearnswharf{
-		background-image: url(/open-science-codefest/assets/img/stearnswharf.jpg);
-	
-}
 #statest{
-		background-image: url(/open-science-codefest/assets/img/statest.jpg);
 		background-position-x: 50%;
-}
-#more-attractions{
-		background-image: url(/open-science-codefest/assets/img/palmtrees.jpg);
 }
 #more-attractions p{
 	background-color: #111;
@@ -362,11 +327,9 @@ width: 49%;
 	color: #FFF;
 }
 #register{
-	background-image: url(/open-science-codefest/assets/img/register.jpg);
 	background-position-x: 40%;
 }
 #attractions{
-		background-image: url(/open-science-codefest/assets/img/onbike.jpg);
 		margin-top: 20px;
 }
 #details p{
@@ -402,16 +365,6 @@ cursor: pointer;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
-}
-
-footer{
-	padding: 0px 2%;
-	margin-top: 10px;
-	font-size: .8em;
-}
-
-#titleheader .mobile{
-	display: none;
 }
 
 footer{
@@ -507,5 +460,3 @@ footer{
 		margin-top: 0px;
 	}
 }
-
-	

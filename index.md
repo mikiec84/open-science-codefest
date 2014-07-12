@@ -36,7 +36,7 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	  Sessions
 	</div> 
 	
-	<p>The Codefest is <a href="http://en.wikipedia.org/wiki/Unconference">yours to customize, organize, and create</a>, with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to stimulate productivity and community building, while giving ample opportunities for collaborative coding and design sessions, <a href="http://en.wikipedia.org/wiki/Lightning_talk">ignite talks</a> that promote communication among participants as activities unfold, and birds-of-a-feather discussions.</p>
+	<p>The Codefest is <a href="http://en.wikipedia.org/wiki/Unconference">yours to customize, organize, and create</a>, with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to stimulate productivity and community building, while giving ample opportunities for collaborative coding and design sessions, <a href="http://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> that promote communication among participants as activities unfold, and birds-of-a-feather discussions.</p>
 	
 	  <ul class="posts">
 	    {% for post in site.posts limit:15 %}
