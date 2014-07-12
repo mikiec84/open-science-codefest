@@ -14,6 +14,7 @@ title: Organizing Committee
 - Trisha Cruse (CDL)
 - Peter Fox (RPI)
 - Corinna Gries (NTL LTER, GLEON)
+- Stephanie Hampton (WSU)
 - Ted Hart (NEON)
 - Chris Jones (NCEAS)
 - Ben Leinfelder (NCEAS)
