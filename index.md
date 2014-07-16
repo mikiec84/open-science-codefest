@@ -48,18 +48,6 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	    {% endfor %}
 	  </ul>
 </div>
-<div class="container-fluid labels">
-	<div class="title" id="categories">
-	  Session Categories
-	</div> 
-	<div>
-	    <p>Sessions are categorized into the type of activity involved, and we expect sessions in Data Science, Coding, Design, Discussion, Lightning talks, and others.  We envision sessions covering data science, data management, research data analysis, software for modeling, model coupling, and data-model integration.  Whether you are into <a href="http://r-project.org">R</a>, <a href="http://python.org">scientific python</a>, or any other language, we expect many Code for Science hacks, where people can conceive of and prototype new science software, extend existing systems, and design new packages. The current types of activities currently are:
-	    <ul class="tag_box inline">
-	      {% assign categories_list = site.categories %}
-	      {% include JB/categories_list %}
-	    </ul>
-	</div>
-</div>
 <div class="container-fluid" id="sponsors">
 	<div class="title">
 	  Sponsors
