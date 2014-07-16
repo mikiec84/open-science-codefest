@@ -205,7 +205,7 @@ body#index a:hover,
 	height: 36px;
 	margin-top: -10px;
 	line-height: 42px;
-	font-family: Squares Bold;
+	font-family: Squares;
 	letter-spacing: 1px;
 	font-size: 1.2em;
 	transition: all .3s;
@@ -271,13 +271,8 @@ color: #FFF;
 	color: #FFF;
 }
 
-#sponsors .nceas{
-	margin-top: 18px;
-	margin-bottom: 6px;
-}
 
 #sponsors .nsf{
-	margin-top: 15px;
 	height: 85px;
 }
 

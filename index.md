@@ -66,30 +66,42 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	</div> 
 	<div class="container-fluid">
 	  <div class="row-fluid">
-	    <div class="span3 text-box">
+	    <div class="span2 text-box">
 	      <p>
 	      	<img src="{{ BASE_PATH }}assets/img/renci.jpg" class="renci"/><br/>
-	      	<a href="http://renci.org/">RENCI</a>
+	      	<a href="http://renci.org/" target="_blank">RENCI</a>
 	      </p>
 	    </div>
-	    <div class="span3 text-box">
+	    <div class="span2 text-box">
 	      <p>
 	          <img src="{{ BASE_PATH }}assets/img/nceas.png" class="nceas" /><br />
-	          <a href="http://www.nceas.ucsb.edu">NCEAS</a>
+	          <a href="http://www.nceas.ucsb.edu" target="_blank">NCEAS</a>
 	      </p>
 	    </div>
-	   <div class="span3 text-box">
+	   <div class="span2 text-box">
 	      <p>
 	       <img src="{{ BASE_PATH }}assets/img/nsf.gif"  class="nsf"/><br />
-	          <a href="http://www.nsf.gov/">NSF</a><br/>
+	          <a href="http://www.nsf.gov/" target="_blank">NSF</a><br/>
 	          <span class="tiny">Acknowledgement: This material is based upon work supported by the National Science Foundation under Grant Number 1216894</span>
 	      </p>
 	    </div>
-	    <div class="span3 text-box">
+	    <div class="span2 text-box">
+	      <p>
+	       <img src="{{ BASE_PATH }}assets/img/ropensci-logo.png"  class="ropensci"/><br />
+	          <a href="http://ropensci.org/" target="_blank">ROpenSci</a><br/>
+	      </p>
+	    </div>
+	    <div class="span2 text-box">
+	      <p>
+	       <img src="{{ BASE_PATH }}assets/img/dataone-logo.png"  class="dataone"/><br />
+	          <a href="http://dataone.org/" target="_blank">DataONE</a><br/>
+	      </p>
+	    </div>
+	    <div class="span2 text-box">
 	    
 	      <p>
-	      <a href="http://isees.nceas.ucsb.edu">ISEES</a><br />
-	      <a href="">WSSI</a>
+	      <a href="http://isees.nceas.ucsb.edu" target="_blank">ISEES</a><br />
+	      <a href="" target="_blank">WSSI</a>
 	      </p>
 	    </div>
 	  </div>
