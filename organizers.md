@@ -28,6 +28,7 @@ title: Organizing Committee
 - Kaitlin Thaney (Mozilla Science Lab)
 - Dave Vieglais (DataONE)
 - Lauren Walker (NCEAS)
+- Kara Woo (WSU)
 - Naupaka Zimmerman (University of Arizona)
 
 We are in the process of adding organizers, please <a href="mailto:codefest@nceas.ucsb.edu">let us know </a> if you are interested. 
