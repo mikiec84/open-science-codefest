@@ -87,7 +87,7 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	    </div>
 	    <div class="span2 text-box">
 	      <p>
-	       <img src="{{ BASE_PATH }}assets/img/sciencelab.png"  class="sciencelab"/><br />
+	       <img src="{{ BASE_PATH }}assets/img/ScienceLab.png"  class="sciencelab"/><br />
 	          <a href="http://mozillascience.org/" target="_blank">Mozilla Science Lab</a><br/>
 	      </p>
 	    </div>
