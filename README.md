@@ -1,7 +1,7 @@
 open-science-codefest-2014
 ==========================
 
-Web site and planning materials for the Open Science Codefest 2014. This is an open, community-driven gathering designed to facilitate advances in sustainable scientific software.
+Web site and planning materials for the [Open Science Codefest 2014](http://nceas.github.io/open-science-codefest). This is an open, community-driven gathering designed to facilitate advances in sustainable scientific software.
 
 # Sessions
 We welcome session ideas, whether they are for coding sessions, design, software discussions, lightning presentations, or other productive activities. To propose a session: 

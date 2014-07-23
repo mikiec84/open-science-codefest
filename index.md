@@ -86,6 +86,12 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	      </p>
 	    </div>
 	    <div class="span2 text-box">
+	      <p>
+	       <img src="{{ BASE_PATH }}assets/img/sciencelab.png"  class="sciencelab"/><br />
+	          <a href="http://mozillascience.org/" target="_blank">Mozilla Science Lab</a><br/>
+	      </p>
+	    </div>
+	    <div class="span2 text-box">
 	    
 	      <p>
 	      <a href="http://isees.nceas.ucsb.edu" target="_blank">ISEES</a><br />
