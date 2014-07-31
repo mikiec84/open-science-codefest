@@ -5,7 +5,7 @@ title: Organizing Committee
 
 ## Conference Co-Chairs
 - Matthew B. Jones (NCEAS)
-- Ray Idaszak (RENCI)
+- Chris Lenhardt (RENCI)
 
 ## Organizing Committee
 - Amber Budden (DataONE)
@@ -16,9 +16,9 @@ title: Organizing Committee
 - Corinna Gries (NTL LTER, GLEON)
 - Stephanie Hampton (WSU)
 - Ted Hart (NEON)
+- Ray Idaszak (RENCI)
 - Chris Jones (NCEAS)
 - Ben Leinfelder (NCEAS)
-- Chris Lenhardt (RENCI)
 - Deborah McGuinness (RPI)
 - Bill Michener (DataONE)
 - Margaret O'Brien (SBC LTER)
