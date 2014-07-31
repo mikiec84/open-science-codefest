@@ -27,8 +27,8 @@ title: Open Science Codefest Venue
 	<p><em>Location</em> All Codefest activities will be taking place at the Fess Parker Doubletree hotel.</p>
 	<p><em>Who</em> Anyone is welcome to attend.</p>
 	<p><em>Fee</em> There is no registration fee for Open Science Codefest 2014.</p>
-	<p><em>Lodging</em> Rooms at the Fess Parker have been reserved for Open Science Codefest at a special discounted rate. Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount. </p>
-	<p><em>Food</em> Breakfast and lunch will be provided.</p>
+	<p><em>Lodging</em> Limited rooms at the Fess Parker are on hold for Open Science Codefest at a special discounted rate. <b>Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount by August 1. </b></p>
+	<p><em>Food</em> Breakfast and lunch will be provided each day.</p>
 </div>
 
 <div class="filler">
