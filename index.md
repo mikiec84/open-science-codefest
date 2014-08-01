@@ -38,15 +38,9 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	
 	<p>The Codefest is <a href="http://en.wikipedia.org/wiki/Unconference">yours to customize, organize, and create</a>, with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to stimulate productivity and community building, while giving ample opportunities for collaborative coding and design sessions, <a href="http://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> that promote communication among participants as activities unfold, and birds-of-a-feather discussions.</p>
 	
-	  <ul class="posts">
-	    {% for post in site.posts limit:15 %}
-	      <li class="posts-title">
-		      	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-		      	<span class="label">{{ post.category }}</span>
-		      	<span class="post-date">Added {{ post.date | date_to_string }}</span>
-	      </li>
-	    {% endfor %}
-	  </ul>
+	  <div id="github-sessions"></div>
+	  
+	  <div class="clear-fix"></div>
 </div>
 <div class="container-fluid" id="sponsors">
 	<div class="title">
@@ -101,3 +95,8 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	  </div>
 	</div>
 </div>
+<script type="text/javascript"> 
+	jQuery(document).ready(function(){
+		getSessions();
+	});
+</script>

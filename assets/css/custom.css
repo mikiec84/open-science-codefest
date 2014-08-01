@@ -26,7 +26,8 @@ ul{
 a{
 	color: #069286;
 }
-a:hover{
+a:hover,
+.posts-title a:hover{
 	color: #8EC540;
 	text-decoration: none;
 }
@@ -162,21 +163,27 @@ body#index a:hover,
 .posts-title{
 	display: block;
 	text-align: left;
-	width: 27%;
+	width: 100%;
 	margin-right: 2%;
 	float: left;
-	height: 150px;
+	height: auto;
 	font-size: 1.3em;
 	line-height: 1.5em;
 	background-color: #EEE;
 	padding: 10px 2%;
 	min-width: 245px;
-	border-bottom: #999 5px solid;
 	overflow: overlay;
 }
 .posts-title a{
 	color: #265863;
 	text-align: left;
+}
+.posts-title .label a{
+	color: #FFF;
+}
+.posts-title .label a:hover,
+#github-sessions .posts-title .label a:hover{
+	color: #111;
 }
 .posts-title .post-date{
 	display: block;
@@ -230,6 +237,9 @@ body#index a:hover,
 	background-color: #8ec63e;
 	line-height: 1.2em;
 	font-size: 1.1em;
+	display: inline-block;
+	margin-right: 5px;
+	margin-left: 5px;
 }
 .posts-title .label{
 	color: #FFF;
