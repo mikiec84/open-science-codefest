@@ -5,7 +5,7 @@ title: Open Science Codefest Venue
 
 <div class="container-fluid featured over-image" id="location">
 	<h2>Location</h2>
-	<p><a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Hotel</a><i class="fa fa-external-link"></i> <br/>
+	<p>All codefest activities will be taking place at  <br/> <a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Hotel</a><i class="fa fa-external-link"></i> <br/>
 	    633 East Cabrillo Boulevard <br/>
 	    Santa Barbara, CA<br/>
 	    93103</p>
@@ -21,18 +21,23 @@ title: Open Science Codefest Venue
 		<div id="maps"><span>Google Maps (C) 2014</span></div>		
 </div>
 
+<div class="alert alert-info" style="min-height: 95px; margin-top: 20px;">
+	<img src="{{ BASE_PATH }}assets/img/deadline-extended.png" alt="Deadline Extended" style="float:left; margin-right: 2%; height: 90px;"/>
+	<h4 style="padding-top: 30px;">Special room rates at the conference hotel are extended until August 8. <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">Make your reservation TODAY!</a></h4>
+</div>
+
 <div class="container-fluid featured" id="details">
 	<h2>Details</h2>
 	<p><em>Dates</em> September 2-4, 2014</p>
 	<p><em>Location</em> All Codefest activities will be taking place at the Fess Parker Doubletree hotel.</p>
 	<p><em>Who</em> Anyone is welcome to attend.</p>
 	<p><em>Fee</em> There is no registration fee for Open Science Codefest 2014.</p>
-	<p><em>Lodging</em> Limited rooms at the Fess Parker are on hold for Open Science Codefest at a special discounted rate. <b>Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount by August 1. </b></p>
+	<p><em>Lodging</em> Limited rooms at the Fess Parker are on hold for Open Science Codefest at a special discounted rate. <b>Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount by August 8. </b></p>
 	<p><em>Food</em> Breakfast and lunch will be provided each day.</p>
 </div>
 
 <div class="filler">
-	<a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573"><img src="{{ BASE_PATH }}assets/img/reserve.jpg" /></a>
+	<a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573"><img src="{{ BASE_PATH }}assets/img/reserve-aug8.png" /></a>
 </div>
 
 <div class="container-fluid featured over-image" id="attractions">
