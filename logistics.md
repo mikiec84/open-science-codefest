@@ -5,7 +5,7 @@ title: Open Science Codefest Venue
 
 <div class="container-fluid featured over-image" id="location">
 	<h2>Location</h2>
-	<p>All codefest activities will be taking place at  <br/> <a href="http://www.fessparkersantabarbarahotel.com/">The Fess Parker Hotel</a><i class="fa fa-external-link"></i> <br/>
+	<p>All codefest activities will be taking place at  <br/> <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">The Fess Parker Hotel</a><i class="fa fa-external-link"></i> <br/>
 	    633 East Cabrillo Boulevard <br/>
 	    Santa Barbara, CA<br/>
 	    93103</p>
