@@ -6,7 +6,7 @@ title: Open Science Codefest 2014
 
 <div class="alert alert-info" style="min-height: 95px; padding-left: 10%;">
 	<img src="{{ BASE_PATH }}assets/img/deadline-extended.png" alt="Deadline Extended" style="float:left; margin-right: 2%; height: 90px;"/>
-	<h4 style="padding-top: 30px;">Special room rates at the conference hotel are extended until August 8. <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">Make your reservation TODAY!</a></h4>
+	<h4 style="padding-top: 30px;">Special room rates at the conference hotel are extended until August 15. <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">Make your reservation TODAY!</a></h4>
 </div>
 
 <div class="clear-fix"></div>
