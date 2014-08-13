@@ -23,7 +23,7 @@ title: Open Science Codefest Venue
 
 <div class="alert alert-info" style="min-height: 95px; margin-top: 20px;">
 	<img src="{{ BASE_PATH }}assets/img/deadline-extended.png" alt="Deadline Extended" style="float:left; margin-right: 2%; height: 90px;"/>
-	<h4 style="padding-top: 30px;">Special room rates at the conference hotel are extended until August 8. <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">Make your reservation TODAY!</a></h4>
+	<h4 style="padding-top: 30px;">Special room rates at the conference hotel are extended until August 15. <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">Make your reservation TODAY!</a></h4>
 </div>
 
 <div class="container-fluid featured" id="details">
@@ -32,7 +32,7 @@ title: Open Science Codefest Venue
 	<p><em>Location</em> All Codefest activities will be taking place at the Fess Parker Doubletree hotel.</p>
 	<p><em>Who</em> Anyone is welcome to attend.</p>
 	<p><em>Fee</em> There is no registration fee for Open Science Codefest 2014.</p>
-	<p><em>Lodging</em> Limited rooms at the Fess Parker are on hold for Open Science Codefest at a special discounted rate. <b>Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount by August 8. </b></p>
+	<p><em>Lodging</em> Limited rooms at the Fess Parker are on hold for Open Science Codefest at a special discounted rate. <b>Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount by August 15. </b></p>
 	<p><em>Food</em> Breakfast and lunch will be provided each day.</p>
 </div>
 
