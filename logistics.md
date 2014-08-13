@@ -37,7 +37,7 @@ title: Open Science Codefest Venue
 </div>
 
 <div class="filler">
-	<a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573"><img src="{{ BASE_PATH }}assets/img/reserve-aug8.png" /></a>
+	<a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573"><img src="{{ BASE_PATH }}assets/img/reserve-aug15.png" /></a>
 </div>
 
 <div class="container-fluid featured over-image" id="attractions">
