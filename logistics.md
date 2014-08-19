@@ -21,11 +21,6 @@ title: Open Science Codefest Venue
 		<div id="maps"><span>Google Maps (C) 2014</span></div>		
 </div>
 
-<div class="alert alert-info" style="min-height: 95px; margin-top: 20px;">
-	<img src="{{ BASE_PATH }}assets/img/deadline-extended.png" alt="Deadline Extended" style="float:left; margin-right: 2%; height: 90px;"/>
-	<h4 style="padding-top: 30px;">Special room rates at the conference hotel are extended until August 15. <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">Make your reservation TODAY!</a></h4>
-</div>
-
 <div class="container-fluid featured" id="details">
 	<h2>Details</h2>
 	<p><em>Dates</em> September 2-4, 2014</p>
@@ -34,6 +29,7 @@ title: Open Science Codefest Venue
 	<p><em>Fee</em> There is no registration fee for Open Science Codefest 2014.</p>
 	<p><em>Lodging</em> Limited rooms at the Fess Parker are on hold for Open Science Codefest at a special discounted rate. <b>Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount by August 15. </b></p>
 	<p><em>Food</em> Breakfast and lunch will be provided each day.</p>
+	<p><em>Code of Conduct</em> Read the <a href="{{ BASE_PATH }}conduct.html">Open Science Codefest Code of Conduct</a></p>
 </div>
 
 <div class="filler">
