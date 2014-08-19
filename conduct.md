@@ -1,3 +1,8 @@
+---
+layout: default
+title: Open Science Codefest Code of Conduct
+---
+
 ## Anti-harassment policy
 
 The Open Science Codefest is intended to advance the state of open science by facilitating collaborative work on sustainable scientific software. We value the participation of every member in attendence, and want all to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the Codefest.
