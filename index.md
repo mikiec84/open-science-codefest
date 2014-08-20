@@ -93,7 +93,7 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	    
 	      <p>
 	      <a href="http://isees.nceas.ucsb.edu" target="_blank">ISEES</a><br />
-	      <a href="" target="_blank">WSSI</a>
+	      <a href="http://renci.org/research/water-science-software-institute/" target="_blank">WSSI</a>
 	      </p>
 	    </div>
 	  </div>
