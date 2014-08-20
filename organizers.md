@@ -10,7 +10,6 @@ title: Organizing Committee
 ## Organizing Committee
 - Amber Budden (DataONE)
 - Scott Chamberlain (ROpenSci)
-- Laura Christopherson (RENCI)
 - Trisha Cruse (CDL)
 - Peter Fox (RPI)
 - Corinna Gries (NTL LTER, GLEON)
