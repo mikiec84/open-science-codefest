@@ -2,7 +2,7 @@
 		
 		var sessionsHTML = "<ul>";
 		
-		$.get("https://api.github.com/repos/nceas/open-science-codefest/issues", function(data){
+		$.get("https://api.github.com/repos/nceas/open-science-codefest/issues?labels=proposed%20session", function(data){
 			
 			var numSess = data.length,
 				session;
