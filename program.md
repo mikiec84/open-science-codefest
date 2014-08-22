@@ -39,3 +39,10 @@
 | 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
 | 12:00 pm | Lunch | * | * | * | * | * | * | * | * | * | * |
 |  1:00 pm | Adjourn for Day | * | * | * | * | * | * | * | * | * | * |
+
+## Conference room layout
+
+The conference rooms at the Fess Parker are all within easy walking distance of each other.
+
+![Conference Map](http://doubletree.hilton.com/en/hotels/content/SBAMCDT/media/images/floorplans/sbamlby.gif?)
+
