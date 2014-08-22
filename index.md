@@ -68,7 +68,7 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	      <p>
 	       <img src="{{ BASE_PATH }}assets/img/nsf.gif"  class="nsf"/><br />
 	          <a href="http://www.nsf.gov/" target="_blank">NSF</a><br/>
-	          <span class="tiny">Acknowledgement: This material is based upon work supported by the National Science Foundation under Grant Number 1216894</span>
+	          <span class="tiny">Acknowledgement: This material is based upon work supported by the National Science Foundation under Grant Numbers 1216894 and 1216817</span>
 	      </p>
 	    </div>
 	    <div class="span2 text-box">
