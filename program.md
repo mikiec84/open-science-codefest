@@ -45,3 +45,12 @@ The conference rooms at the Fess Parker are all within easy walking distance of 
 
 ![Conference Map](http://doubletree.hilton.com/en/hotels/content/SBAMCDT/media/images/floorplans/sbamlby.gif?)
 
+## Reception, Tuesday September 2
+
+We are hosting a reception for all registered guests on Tuesday, September 2, 2014. There will be light appetizers and a cash bar, and of course open science!  See you there.
+
+Where: [Oreana Winery and Marketplace](https://plus.google.com/113520751080009916118/about?gl=us&hl=en), 205 Anacapa St., Santa Barbara ,CA
+When: 5:30pm - 7:30 pm, Tuesday, September 2, 2014
+Getting there: Walk a little under a mile, about 15 minutes. Directions:
+
+![Reception Map](assets/img/Map_Oreana.png)
