@@ -33,7 +33,7 @@ Patricia | Cruse | patricia.cruse@ucop.edu | University of California
 John | Czaplewski | jczaplewski@wisc.edu | University of Wisconsin - Madison
 Jorge | Donoso | cornejotux@gmail.com | UC Santa Barbara - IGPMS (Interdepartmental Graduate Program in Marine Science)
 Stevan | Earl | stevan.earl@asu.edu | CAP LTER
-Kate | Ettinger | kme@muralinstitute.com | OpenQRS | Mural Institute
+Kate | Ettinger | kme@muralinstitute.com | OpenQRS Mural Institute
 Francesco | Ferretti | ferretti@stanford.edu | Stanford University
 Alessandro | Filazzola | alex.filazzola@hotmail.com | York University
 James | Frew | frew@bren.ucsb.edu | University of California, Santa Barbara
