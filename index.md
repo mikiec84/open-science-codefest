@@ -14,10 +14,6 @@ Do you have a coding project that could benefit from collaboration, or software 
 Inspired by hack-a-thons and organized in the participant-driven, unconference style, the Open Science Codefest is for anyone with an interesting problem, solution, or idea that intersects environmental science and computer programming.  <em>This is the conference where you will actually get stuff done</em> -- whether that's coding up a new R module, developing an ontology, working on a data repository, creating data visualizations, dreaming up an interactive eco-game, discussing an idea, or any other concrete collaborative goal that interests a group of people.
 </p>
 
-<div class="filler">
-	<a class="lightbox-41817591638969"><img src="{{ BASE_PATH }}assets/img/conference.jpg" /></a>
-</div>
-
 <div class="container-fluid featured over-image grid" id="design">
 	<h2>Design</h2>
 	<p>Collaborate with others to conceive, extend, and design software for open science.</p>
@@ -34,6 +30,10 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	<h2>Code</h2>
     <p>Put ideas into reality in real time. Prototype open source software for science with others.</p>
 </div>
+<div class="filler">
+	<a class="lightbox-41817591638969"><img src="{{ BASE_PATH }}assets/img/conference.jpg" /></a>
+</div>
+
 <div class="clearfix"></div>
 <div class="container-fluid" id="sessions">
 	<div class="title" id="sessions">
