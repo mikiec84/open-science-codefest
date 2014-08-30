@@ -7,7 +7,14 @@ title: Program
 
 ## Program
 
-This program will be updated during the first Meta Session when participants organize into teams, which will be based on the list of [proposed sessions](sessions.html).  Check back here periodically for updates.
+The [Open Science Codefest](/) is participant-driven, and our process will be guided by the [Open Source Project Guide: Hackathon/Sprint version](https://docs.google.com/document/d/1UGtR_6XWBn4_vo37Kn_hNXmzpwLaSJEZxc8rqFKhy-U/edit?pli=1).  On the first morning, we will organize into sessions by asking session proposers to describe their ideas.  We will then do some 'voting with your feet' to decide which sessions will happen and how long they will persist.  Thus, this program will be updated during the first Meta Session when participants organize into teams, which will be based on the list of [proposed sessions](sessions.html).  Check back here periodically for updates.
+
+- Agenda
+    - [Tuesday](#tuesday,-september-2,-2014)
+    - [Wednesday](#wednesday,-september-3,-2014)
+    - [Thursday](#thursday,-september-4,-2014)
+- [Conference Room Layout](#conference-room-layout)
+- [Reception at Oreana Winery](#reception)
 
 ## Tuesday, September 2, 2014
 
