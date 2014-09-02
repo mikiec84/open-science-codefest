@@ -20,7 +20,7 @@ title: Participants
 | Ben | Best | bbest AT nceas.ucsb.edu  | UC Santa Barbara |
 | Maziyar | Boustani | boustani AT jpl.nasa.gov  | NASA/JPL |
 | Amber | Budden | aebudden AT dataone.unm.edu  | University of New Mexico |
-| Abigail | Cabunoc | abigail AT mozillascience.org  | Mozilla Science Lab |
+| Abigail | Cabunoc | abigail AT mozillafoundation.org  | Mozilla Science Lab |
 | Bruce | Caron | bruce AT tnms.org  | New Media Research Institute |
 | Scott | Chamberlain | scott AT ropensci.org  | rOpenSci/UC Berkeley |
 | Aashish | Chaudhary | aashish.chaudhary AT kitware.com  | Kitware Inc. |
