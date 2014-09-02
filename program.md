@@ -54,6 +54,7 @@ The [Open Science Codefest](/) is participant-driven, and our process will be gu
 |  8:30 am | Block 1 | * | * | * | * | * | * | * | * | * | * |
 | 10:00 am | Break | * | * | * | * | * | * | * | * | * | * |
 | 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
+| 11:00 am | Share and wrap up |
 | 12:00 pm | Adjourn for Day | 
 
 ## Conference room layout
