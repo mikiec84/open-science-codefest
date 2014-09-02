@@ -36,7 +36,7 @@ The [Open Science Codefest](/) is participant-driven, and our process will be gu
 | Time | Plenary (San Rafael) | BR1: San Rafael (100) | BR2: San Rafael (100) | BR3: Madre North (15)| BR4: Madre North (15)| BR5: Madre South (15)| BR6: Madre South (15)| BR7: Santa Rosa East (20)| BR8: Santa Rosa West (20)| BR9: San Miguel East (20)| BR10: San Miguel West (20)| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 |  8:00 am | Coffee | * | * | * | * | * | * | * | * | * | * |
-|  8:30 am | Report and Remix | * | * | * | * | * | * | * | * | * | * |
+|  8:30 am | Share and Remix | * | * | * | * | * | * | * | * | * | * |
 |  9:00 am | Block 1 | * | * | * | * | * | * | * | * | * | * |
 | 10:00 am | Break | * | * | * | * | * | * | * | * | * | * |
 | 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
@@ -54,6 +54,7 @@ The [Open Science Codefest](/) is participant-driven, and our process will be gu
 |  8:30 am | Block 1 | * | * | * | * | * | * | * | * | * | * |
 | 10:00 am | Break | * | * | * | * | * | * | * | * | * | * |
 | 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
+| 11:00 am | Share and wrap up |
 | 12:00 pm | Adjourn for Day | 
 
 ## Conference room layout
