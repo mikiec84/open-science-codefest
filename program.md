@@ -24,7 +24,7 @@ The [Open Science Codefest](/) is participant-driven, and our process will be gu
 |  8:30 am | Welcome (Jones and Lenhardt) | 
 |  8:45 am | Meta Session | 
 | 10:00 am | Break | 
-| 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
+| 10:30 am | Block 2 | VizSciData | * | RHESSys | MchnLrngImgs | EcoNicheModel | Moneybee | * | MetaSemantics | PangeaR | ESAOpenSci |
 | 12:00 pm | Lunch (Plaza Del Sol)| 
 |  1:00 pm | Block 3 | * | * | * | * | * | * | * | * | * | * |
 |  3:00 pm | Break | 
