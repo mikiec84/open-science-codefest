@@ -20,7 +20,7 @@ title: Participants
 | Ben | Best | bbest AT nceas.ucsb.edu  | UC Santa Barbara |
 | Maziyar | Boustani | boustani AT jpl.nasa.gov  | NASA/JPL |
 | Amber | Budden | aebudden AT dataone.unm.edu  | University of New Mexico |
-| Abigail | Cabunoc | abigail.cabunoc AT gmail.com  | Ontario Institute for Cancer Research |
+| Abigail | Cabunoc | abigail AT mozillascience.org  | Mozilla Science Lab |
 | Bruce | Caron | bruce AT tnms.org  | New Media Research Institute |
 | Scott | Chamberlain | scott AT ropensci.org  | rOpenSci/UC Berkeley |
 | Aashish | Chaudhary | aashish.chaudhary AT kitware.com  | Kitware Inc. |
@@ -73,7 +73,7 @@ title: Participants
 | Lewis John | McGibbney | lewis.j.mcgibbney AT jpl.nasa.gov  | Jet Propulsion Laboratory |
 | Bill | Michener | william.michener AT gmail.com  | University of New Mexico |
 | Brian | Miles | brian_miles AT unc.edu  | UNC-CH |
-| Bill | Mills | mills.wj AT gmail.com  | Independent |
+| Bill | Mills | mills.wj AT gmail.com  | Mozilla Science Lab |
 | Joseph | Mudge | joe.mudge AT ttu.edu  | Texas Tech University |
 | Brian | Muir | bmuir001 AT ucr.edu  | University of California Riverside |
 | Camilla | Novaglio | camilla.novaglio AT gmail.com  | University of Tasmania |
