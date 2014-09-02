@@ -24,36 +24,36 @@ The [Open Science Codefest](/) is participant-driven, and our process will be gu
 |  8:30 am | Welcome (Jones and Lenhardt) | 
 |  8:45 am | Meta Session | 
 | 10:00 am | Break | 
-| 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
+| 10:30 am | Block 2 | VizSciData | * | RHESSys | MchnLrngImgs | EcoNicheModel | Moneybee | * | MetaSemantics | PangeaR | ESAOpenSci |
 | 12:00 pm | Lunch (Plaza Del Sol)| 
-|  1:00 pm | Block 3 | * | * | * | * | * | * | * | * | * | * |
+|  1:00 pm | Block 3 | VizSciData / TopicViz | * | RHESSys | MchnLrngImgs | EcoNicheModel | Moneybee | * | MetaFeedback | PangeaR / Data1R | ESAOpenSci / DataLifeCycle |
 |  3:00 pm | Break | 
-|  3:30 pm | Block 4 | * | * | * | * | * | * | * | * | * | * |
+|  3:30 pm | Block 4 | TopicViz | * | RHESSys | DataCrawl | EcoNicheModel | Moneybee | OSManuScript | * | Data1R | DataLifeCycle |
 |  5:30 pm | [Reception at Oreana Winery](#toc_5) | 
 
 ## Wednesday, September 3, 2014
 
 | Time | Plenary (San Rafael) | BR1: San Rafael (100) | BR2: San Rafael (100) | BR3: Madre North (15)| BR4: Madre North (15)| BR5: Madre South (15)| BR6: Madre South (15)| BR7: Santa Rosa East (20)| BR8: Santa Rosa West (20)| BR9: San Miguel East (20)| BR10: San Miguel West (20)| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-|  8:00 am | Coffee | * | * | * | * | * | * | * | * | * | * |
-|  8:30 am | Share and Remix | * | * | * | * | * | * | * | * | * | * |
-|  9:00 am | Block 1 | * | * | * | * | * | * | * | * | * | * |
-| 10:00 am | Break | * | * | * | * | * | * | * | * | * | * |
-| 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
-| 12:00 pm | Lunch (Plaza Del Sol)| * | * | * | * | * | * | * | * | * | * |
-|  1:00 pm | Block 3 | * | * | * | * | * | * | * | * | * | * |
-|  3:00 pm | Break | * | * | * | * | * | * | * | * | * | * |
-|  3:30 pm | Block 4 | * | * | * | * | * | * | * | * | * | * |
-|  5:30 pm | Adjourn for Day | * | * | * | * | * | * | * | * | * | * |
+|  8:00 am | Coffee |
+|  8:30 am | Share and Remix | 
+|  9:00 am | Block 1 | * | Pathogens | RHESSys | MetaProv&Uncrn | DataCrawl | GameEco | * | AutoMeta / SOLRMeta | * | DOI4Code |
+| 10:00 am | Break | 
+| 10:30 am | Block 2 | * | Pathogens | RHESSys | MetaProv&Uncrn | DRAT | GameEco | * | AutoMeta / SOLRMeta | * | DOI4Code |
+| 12:00 pm | Lunch (Plaza Del Sol)| 
+|  1:00 pm | Block 3 | * | Pathogens | RHESSys | MetaProv&Uncrn | DRAT | GameEco | RepoStruct | * | * | * |
+|  3:00 pm | Break | 
+|  3:30 pm | Block 4 | * | * | RHESSys | MetaProv&Uncrn | * | * | RepoStruct | * | * | DataWebServ |
+|  5:30 pm | Adjourn for Day |
 
 ## Thursday, September 4, 2014
 
 | Time | Plenary (San Rafael) | BR1: San Rafael (100) | BR2: San Rafael (100) | BR3: Madre North (15)| BR4: Madre North (15)| BR5: Madre South (15)| BR6: Madre South (15)| BR7: Santa Rosa East (20)| BR8: Santa Rosa West (20)| BR9: San Miguel East (20)| BR10: San Miguel West (20)| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-|  8:00 am | Coffee | * | * | * | * | * | * | * | * | * | * |
-|  8:30 am | Block 1 | * | * | * | * | * | * | * | * | * | * |
-| 10:00 am | Break | * | * | * | * | * | * | * | * | * | * |
-| 10:30 am | Block 2 | * | * | * | * | * | * | * | * | * | * |
+|  8:00 am | Coffee | 
+|  8:30 am | Block 1 | * | * | RHESSys | * | * | SptlAnalysis | * | LiveOpenSci | * | MultiTool |
+| 10:00 am | Break |
+| 10:30 am | Block 2 | * | * | RHESSys | * | * | * | * | LiveOpenSci | * | * |
 | 11:00 am | Share and wrap up |
 | 12:00 pm | Adjourn for Day | 
 
