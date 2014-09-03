@@ -37,13 +37,13 @@ The [Open Science Codefest](/) is participant-driven, and our process will be gu
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 |  8:00 am | Coffee |
 |  8:30 am | Share and Remix | 
-|  9:00 am | Block 1 | * | Pathogens | RHESSys | MetaProv&Uncrn | DataCrawl | GameEco | * | AutoMeta / SOLRMeta | * | DOI4Code |
+|  9:00 am | Block 1 | TopicViz | * | RHESSys | * | DataCrawl | GameEco | EcoNicheModel | AutoMeta / SOLRMeta | EcoPaper | DOI4Code |
 | 10:00 am | Break | 
-| 10:30 am | Block 2 | * | Pathogens | RHESSys | MetaProv&Uncrn | DRAT | GameEco | * | AutoMeta / SOLRMeta | * | DOI4Code |
+| 10:30 am | Block 2 | TopicViz | * | RHESSys | MetaProv&Uncrn | * | GameEco | * | AutoMeta / SOLRMeta | EcoPaper | DOI4Code |
 | 12:00 pm | Lunch (Plaza Del Sol)| 
-|  1:00 pm | Block 3 | * | Pathogens | RHESSys | MetaProv&Uncrn | DRAT | GameEco | RepoStruct | * | * | * |
+|  1:00 pm | Block 3 | * | Pathogens | RHESSys | MetaProv&Uncrn | DRAT | GameEco | RepoStruct | * | ProvenanceR | * |
 |  3:00 pm | Break | 
-|  3:30 pm | Block 4 | * | * | RHESSys | MetaProv&Uncrn | * | * | RepoStruct | * | * | DataWebServ |
+|  3:30 pm | Block 4 | * | Pathogens | RHESSys | MetaProv&Uncrn | DRAT | * | RepoStruct | * | ProvenanceR| DataWebServ |
 |  5:30 pm | Adjourn for Day |
 
 ## Thursday, September 4, 2014
