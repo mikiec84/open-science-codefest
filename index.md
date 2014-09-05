@@ -30,9 +30,6 @@ Inspired by hack-a-thons and organized in the participant-driven, unconference s
 	<h2>Code</h2>
     <p>Put ideas into reality in real time. Prototype open source software for science with others.</p>
 </div>
-<div class="filler">
-	<a class="lightbox-41817591638969"><img src="{{ BASE_PATH }}assets/img/conference.jpg" /></a>
-</div>
 
 <div class="clearfix"></div>
 <div class="container-fluid" id="sessions">

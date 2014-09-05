@@ -5,7 +5,7 @@ title: Open Science Codefest Venue
 
 <div class="container-fluid featured over-image" id="location">
 	<h2>Location</h2>
-	<p>All codefest activities will be taking place at  <br/> <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">The Fess Parker Hotel</a><i class="fa fa-external-link"></i> <br/>
+	<p>All codefest activities will be taking place at  <br/>The Fess Parker Hotel <br/>
 	    633 East Cabrillo Boulevard <br/>
 	    Santa Barbara, CA<br/>
 	    93103</p>
@@ -27,14 +27,10 @@ title: Open Science Codefest Venue
 	<p><em>Location</em> All Codefest activities will be taking place at the Fess Parker Doubletree hotel.</p>
 	<p><em>Who</em> Anyone is welcome to attend.</p>
 	<p><em>Fee</em> There is no registration fee for Open Science Codefest 2014.</p>
-	<p><em>Lodging</em> Limited rooms at the Fess Parker are on hold for Open Science Codefest at a special discounted rate. <b>Reserve your room through <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573">this page</a> to use the discount by August 15. </b></p>
 	<p><em>Food</em> Breakfast and lunch will be provided each day.</p>
 	<p><em>Code of Conduct</em> Read the <a href="{{ BASE_PATH }}conduct.html">Open Science Codefest Code of Conduct</a></p>
 </div>
 
-<div class="filler">
-	<a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11642573"><img src="{{ BASE_PATH }}assets/img/reserve-aug15.png" /></a>
-</div>
 
 <div class="container-fluid featured over-image" id="attractions">
 	<h2>Local Attractions</h2>
