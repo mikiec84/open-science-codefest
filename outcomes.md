@@ -15,3 +15,6 @@ title: Outcomes
     - This activity generated a draft journal article promoting Open Science for ecologists. The discussion was varied and focused on defining open science, listing tools for open science, and processes. The overall notion was that the key element required for open science is to shift the scientist's mindset. Additional discussion delved into more detail about actual tools and the origins of open science.
     - Etherpad discussion can be found [MoPadLinkHere](https://etherpad.mozilla.org/osmanuscript)
     - Draft google doc can be found [OSManuscriptlink](insertlinktogoogledochere)
+- [ESAOpenSci](https://github.com/NCEAS/open-science-codefest/wiki/ESAOpenSci) - Discussing creating an Open Science Section in ESA
+    - The purppose of this discussion session was to review the merits, opportunities, benefits, and potential for implementation of a section in ESA devoted to promoting Open Science. 
+    - Among other things this activity has generated an [online petition](https://docs.google.com/forms/d/1quEtCE_1lMOnjzhfeaL_xi-yUgndtGfiLKk-EMzuAX4/viewform?usp=send_form) proposing the creation of the Open Science Section and the group has generated a draft set of [ByLaws](https://docs.google.com/document/d/1UBASw6gxmfyJXLxyV5Hb8hlTzm7mTN7f8-K1UwKnCC0/edit?usp=sharing).
