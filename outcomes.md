@@ -25,5 +25,15 @@ title: Outcomes
     - Outcomes from the session include:
         - A notional idea to look for an opportunity to create a prototype annotation repository that would have an open API which would be queryable from other resources.
         - Etherpad [discussion](https://etherpad.mozilla.org/L14a1H3MrC)
-- [Bill's session of tools and data lifecycle]
-        - 
+- [Bill's session of tools and data lifecycle](needlinkcreatepage) - This session discussed the availability and popularity of open source tools to support the data management lifecycle.
+        - Results included a table which lists the various parts of the data life cycle and the potential open source tools that can be used to address that step in the life cycle process.
+            - A version of the table is available [tablelinkifoneexists](findtabledoclink)
+        - Future plans include...
+    - [DataCrawl](https://github.com/NCEAS/open-science-codefest/wiki/DataCrawl) - Coding session to develop the means to crawl open data repositories related to snow and ice in advance of the NSF DataViz Hackathon for Polar CyberInfrastructure in NYC in November 2014. 
+        - Data to be crawled includes:
+            - [NASA AMD](http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?Portal=amd&KeywordPath=Parameters%7CCRYOSPHERE&MetadataType=0&lbnode=mdlb2)
+            - [NSF ACADIS](https://www.aoncadis.org/home.htm)
+            - [NSIDC Arctic Data Explorer](http://nsidc.org/acadis/search/)
+        - Outcomes include:
+            - [DataCrawl Etherpad discussion](https://etherpad.mozilla.org/PolarCyberInfra)
+            - [DataCrawl Presentation](https://docs.google.com/presentation/d/1wLF1crJrFQANGxa27e6ZkpjQ50QdtMgvZgMdyS4pmvM/edit?usp=sharing)
